@@ -1,0 +1,13 @@
+GET https://qs-lidl-edossier.xelians-digital.fr:443/portail/assets/materialdesignicons-webfont.da7fba3c.woff2?v=5.9.55 HTTP/1.1
+Host: qs-lidl-edossier.xelians-digital.fr
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: identity
+Connection: keep-alive
+Referer: https://qs-lidl-edossier.xelians-digital.fr/portail/assets/index.b9865269.css
+Cookie: SERVERID=DW83DEVAPP-LIDL|Zbel1|Zbel0
+Sec-Fetch-Dest: font
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+

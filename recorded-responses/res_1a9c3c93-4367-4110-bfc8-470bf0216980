@@ -1,0 +1,16 @@
+{
+    "versionCore": "0.1.104",
+    "urlSso": "https://qs-lidl-edossier.xelians-digital.fr/sso/index.aspx?returnUrl=/portail/",
+    "dwPlatform": "https://qs-lidl-edossier.xelians-digital.fr/DocuWare/Platform",
+    "dwOrganization": "LIDL France",
+    "dwPortailConfigFc": "32d54230-a00f-4dfa-b0fd-9d0415cb416d",
+    "dwPortailConfigDialogSearch": "8b3c864a-215b-4fa2-b49d-1bc5c3695e77",
+    "legalNotice": "",
+    "pictureLogo": "/portail/pictures/logo/logo_lidl.png",
+    "login": {
+        "template": 1,
+        "loginImage": "url('/portail/pictures/font/f2_lidl.jpg')",
+        "loginImageCover": "cover",
+        "loginBoxBackground": "white"
+    }
+}

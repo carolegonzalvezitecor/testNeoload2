@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=COFACE
+project.version=8.8
+project.original.version=8.8
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2023.2.0
+product.original.version=2023.2.0
+project.is-open-test-settings-after-upload=false
+project.id=b39ef5ec-241f-43eb-bc71-c29008a603e6
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

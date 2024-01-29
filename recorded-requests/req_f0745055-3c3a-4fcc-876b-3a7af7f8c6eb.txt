@@ -1,0 +1,13 @@
+GET https://qs-lidl-edossier.xelians-digital.fr:443/portail/assets/VTextField.e8fb5dcd.css HTTP/1.1
+Host: qs-lidl-edossier.xelians-digital.fr
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Referer: https://qs-lidl-edossier.xelians-digital.fr/portail/login
+Cookie: SERVERID=DW83DEVAPP-LIDL|Zbel1|Zbel0
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+

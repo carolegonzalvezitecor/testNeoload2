@@ -1,0 +1,150 @@
+{
+  "unreadCount" : 4,
+  "pagination" : {
+    "nextOffset" : -1,
+    "nbResult" : 4
+  },
+  "notifications" : [ {
+    "legalIdValue" : "384326468",
+    "legalIdName" : "SIREN",
+    "notificationId" : 964424672,
+    "portfolioNumber" : "   653066",
+    "deliveryTypeCode" : "CREDITLIMIT",
+    "isoCountryCode" : "FRA",
+    "familyTypeCode" : "RISK",
+    "contractId" : "CONT-01-1138936266",
+    "easyNumber" : "00000487045348",
+    "businessName" : "CAP INGELEC SA",
+    "customerReference" : "653066-RTL",
+    "importanceLevel" : 1,
+    "internationalBusinessName" : "CAP INGELEC SA",
+    "status" : "UNREAD",
+    "requestId" : "230804U0C402",
+    "notificationType" : "INSURANCE",
+    "creationDate" : "2023-08-07",
+    "category" : null,
+    "subject" : "CREDITLIMIT_GR_SCORE",
+    "parameters" : [ {
+      "value" : "SIREN",
+      "type" : "STRING"
+    }, {
+      "value" : "384326468",
+      "type" : "STRING"
+    }, {
+      "value" : {
+        "currency" : "EUR",
+        "value" : 15000
+      },
+      "type" : "AMOUNT"
+    }, {
+      "value" : "2023-08-04",
+      "type" : "DATE"
+    } ],
+    "content" : "Your Credit Limit has been agreed for {2} from {3}"
+  }, {
+    "legalIdValue" : null,
+    "legalIdName" : null,
+    "notificationId" : 955748592,
+    "portfolioNumber" : "   653066",
+    "deliveryTypeCode" : "TON",
+    "isoCountryCode" : null,
+    "familyTypeCode" : "UOCP",
+    "contractId" : "CONT-01-1138936266",
+    "easyNumber" : "00006775708446",
+    "businessName" : "BORDEAUX PARTENAIRE SERVICES",
+    "customerReference" : null,
+    "importanceLevel" : 1,
+    "internationalBusinessName" : "BORDEAUX PARTENAIRE SERVICES",
+    "status" : "UNREAD",
+    "requestId" : null,
+    "notificationType" : "MANAGEMENT",
+    "creationDate" : "2023-07-10",
+    "category" : "WARNING",
+    "subject" : "DCA_REMINDER",
+    "parameters" : [ {
+      "value" : "   653066",
+      "type" : "STRING"
+    }, {
+      "value" : "03-07-2023",
+      "type" : "STRING"
+    }, {
+      "value" : "10-07-2023",
+      "type" : "STRING"
+    } ],
+    "content" : "Activity Declaration Reminder - {0}"
+  }, {
+    "legalIdValue" : "842795304",
+    "legalIdName" : "SIREN",
+    "notificationId" : 954582704,
+    "portfolioNumber" : "   653066",
+    "deliveryTypeCode" : "CLAIMS",
+    "isoCountryCode" : "FRA",
+    "familyTypeCode" : "UOCP",
+    "contractId" : "CONT-01-1138936266",
+    "easyNumber" : "00010773083019",
+    "businessName" : "AQUITAINE-FIT04",
+    "customerReference" : null,
+    "importanceLevel" : 1,
+    "internationalBusinessName" : "AQUITAINE-FIT04",
+    "status" : "UNREAD",
+    "requestId" : null,
+    "notificationType" : "CLAIMS",
+    "creationDate" : "2023-07-07",
+    "category" : null,
+    "subject" : "NOA_CLAIM_CREATION",
+    "parameters" : [ {
+      "value" : "2023-07-07",
+      "type" : "DATE"
+    } ],
+    "content" : "A NOA has been created on the {0}, in case of intervention request, please upload your document"
+  }, {
+    "legalIdValue" : "525375663",
+    "legalIdName" : "SIREN",
+    "notificationId" : 950443011,
+    "portfolioNumber" : "   653066",
+    "deliveryTypeCode" : "CREDITLIMIT",
+    "isoCountryCode" : "FRA",
+    "familyTypeCode" : "RISK",
+    "contractId" : "CONT-01-1138936266",
+    "easyNumber" : "00006522908613",
+    "businessName" : "CI PROMOTION",
+    "customerReference" : null,
+    "importanceLevel" : 1,
+    "internationalBusinessName" : "CI PROMOTION",
+    "status" : "UNREAD",
+    "requestId" : "230104A0A4F8",
+    "notificationType" : "INSURANCE",
+    "creationDate" : "2023-06-26",
+    "category" : null,
+    "subject" : "CREDITLIMIT_GR_SCOREMONITORING",
+    "parameters" : [ {
+      "value" : "SIREN",
+      "type" : "STRING"
+    }, {
+      "value" : "525375663",
+      "type" : "STRING"
+    }, {
+      "value" : "2",
+      "type" : "STRING"
+    }, {
+      "value" : "1",
+      "type" : "STRING"
+    }, {
+      "value" : "2023-06-26",
+      "type" : "DATE"
+    }, {
+      "value" : {
+        "currency" : "EUR",
+        "value" : 15000
+      },
+      "type" : "AMOUNT"
+    }, {
+      "value" : "7",
+      "type" : "STRING"
+    }, {
+      "value" : "5",
+      "type" : "STRING"
+    } ],
+    "content" : "The DRA linked to this decision has been updated from {6}  to {7} on the {4}"
+  } ]
+}

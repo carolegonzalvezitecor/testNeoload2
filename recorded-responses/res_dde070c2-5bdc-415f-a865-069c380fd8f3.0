@@ -1,0 +1,42 @@
+{
+  "numberOfItemsPerPage" : "100",
+  "defaultHomePage" : "SEARCH",
+  "disableDailyEmail" : "",
+  "internationalization" : "INTERNATIONAL",
+  "displayCRS" : false,
+  "easylinerProjectCounter" : "0",
+  "easylinerProjectLimit" : null,
+  "screens" : [ {
+    "page" : {
+      "label" : "Customised export",
+      "code" : "CUSTOMIZED_EXPORT"
+    },
+    "url" : "/customised-export",
+    "icon" : "icon icon-export"
+  }, {
+    "page" : {
+      "label" : "Risk portfolio",
+      "code" : "RISK_PORTFOLIO"
+    },
+    "url" : "/portfolio",
+    "icon" : "fa fa-shield"
+  }, {
+    "page" : {
+      "label" : "Indemnity follow up",
+      "code" : "OVERDUES_INDEMNITY_FOLLOW_UP"
+    },
+    "url" : "/overdues/followup",
+    "icon" : "fa fa-clock-o"
+  }, {
+    "page" : {
+      "label" : "Portfolio analysis",
+      "code" : "RISK_PORTFOLIO_ANALYSIS"
+    },
+    "url" : "/portfolio/analysis",
+    "icon" : "icon icon-wallet"
+  } ],
+  "defaultSelectedContract" : "CONT-01-1138936266",
+  "companyFavoritesLimit" : "100",
+  "defaultPtfEndDateRange" : "30",
+  "defaultLanguage" : "en"
+}

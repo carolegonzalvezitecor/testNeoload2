@@ -1,0 +1,201 @@
+[ {
+  "jsLocale" : "ar",
+  "targetLabel" : "العربية",
+  "label" : "Arab",
+  "locale" : "ar"
+}, {
+  "jsLocale" : "bg",
+  "targetLabel" : "Български",
+  "label" : "Bulgarian",
+  "locale" : "bg"
+}, {
+  "jsLocale" : "cs",
+  "targetLabel" : "čeština",
+  "label" : "Czech",
+  "locale" : "cs"
+}, {
+  "jsLocale" : "da",
+  "targetLabel" : "Dansk",
+  "label" : "Danish",
+  "locale" : "da"
+}, {
+  "jsLocale" : "de",
+  "targetLabel" : "Deutsch",
+  "label" : "German",
+  "locale" : "de"
+}, {
+  "jsLocale" : "de-at",
+  "targetLabel" : "Deutsch (Österreich)",
+  "label" : "German (Austria)",
+  "locale" : "de_AT"
+}, {
+  "jsLocale" : "ee",
+  "targetLabel" : "Estonian",
+  "label" : "Estonian",
+  "locale" : "ee"
+}, {
+  "jsLocale" : "en-gb",
+  "targetLabel" : "English",
+  "label" : "English",
+  "locale" : "en"
+}, {
+  "jsLocale" : "en-us",
+  "targetLabel" : "English (USA)",
+  "label" : "English (US format)",
+  "locale" : "en_US"
+}, {
+  "jsLocale" : "es",
+  "targetLabel" : "Español",
+  "label" : "Spanish",
+  "locale" : "es"
+}, {
+  "jsLocale" : "es-ar",
+  "targetLabel" : "Español (Latinoámerica)",
+  "label" : "Spanish (Argentina)",
+  "locale" : "es_AR"
+}, {
+  "jsLocale" : "fr-fr",
+  "targetLabel" : "Français",
+  "label" : "French",
+  "locale" : "fr"
+}, {
+  "jsLocale" : "fi",
+  "targetLabel" : "Finnish",
+  "label" : "Finnish",
+  "locale" : "fi"
+}, {
+  "jsLocale" : "hu",
+  "targetLabel" : "Magyar",
+  "label" : "Hungarian",
+  "locale" : "hu"
+}, {
+  "jsLocale" : "it",
+  "targetLabel" : "Italiano",
+  "label" : "Italian",
+  "locale" : "it"
+}, {
+  "jsLocale" : "hr",
+  "targetLabel" : "Hrvatski",
+  "label" : "Croatian",
+  "locale" : "hr"
+}, {
+  "jsLocale" : "he",
+  "targetLabel" : "עברית",
+  "label" : "Hebrew",
+  "locale" : "he"
+}, {
+  "jsLocale" : "ko",
+  "targetLabel" : "Korean",
+  "label" : "Korean",
+  "locale" : "ko"
+}, {
+  "jsLocale" : "id",
+  "targetLabel" : "Indonesian",
+  "label" : "Indonesian",
+  "locale" : "id"
+}, {
+  "jsLocale" : "ja",
+  "targetLabel" : "Japanese",
+  "label" : "Japanese",
+  "locale" : "ja"
+}, {
+  "jsLocale" : "lv",
+  "targetLabel" : "Latviešu",
+  "label" : "Latvian",
+  "locale" : "lv"
+}, {
+  "jsLocale" : "nl-be",
+  "targetLabel" : "Vlaams",
+  "label" : "Dutch of Belgium",
+  "locale" : "nl_BE"
+}, {
+  "jsLocale" : "no",
+  "targetLabel" : "Norwegian",
+  "label" : "Norwegian",
+  "locale" : "no"
+}, {
+  "jsLocale" : "lt",
+  "targetLabel" : "Lietuvių",
+  "label" : "Lithuanian",
+  "locale" : "lt"
+}, {
+  "jsLocale" : "nl",
+  "targetLabel" : "Nederlands",
+  "label" : "Dutch",
+  "locale" : "nl"
+}, {
+  "jsLocale" : "sv",
+  "targetLabel" : "Svenska",
+  "label" : "Swedish",
+  "locale" : "sv"
+}, {
+  "jsLocale" : "ru",
+  "targetLabel" : "Russian",
+  "label" : "Russian",
+  "locale" : "ru"
+}, {
+  "jsLocale" : "pl",
+  "targetLabel" : "polski",
+  "label" : "Polish",
+  "locale" : "pl"
+}, {
+  "jsLocale" : "zh",
+  "targetLabel" : "中文",
+  "label" : "Chinese (Simplified)",
+  "locale" : "zh"
+}, {
+  "jsLocale" : "ro",
+  "targetLabel" : "Româna",
+  "label" : "Romanian",
+  "locale" : "ro"
+}, {
+  "jsLocale" : "pt-br",
+  "targetLabel" : "Português brasileiro",
+  "label" : "Portuguese (Brazil)",
+  "locale" : "pt_BR"
+}, {
+  "jsLocale" : "pt",
+  "targetLabel" : "Português",
+  "label" : "Portuguese",
+  "locale" : "pt"
+}, {
+  "jsLocale" : "zh-tw",
+  "targetLabel" : "繁體中文",
+  "label" : "Chinese (Traditional)",
+  "locale" : "zh_TW"
+}, {
+  "jsLocale" : "sr",
+  "targetLabel" : "Serbian",
+  "label" : "Serbian",
+  "locale" : "sr"
+}, {
+  "jsLocale" : "sl",
+  "targetLabel" : "Slovenščina",
+  "label" : "Sloven",
+  "locale" : "sl"
+}, {
+  "jsLocale" : "sk",
+  "targetLabel" : "Slovenčina",
+  "label" : "Slovak",
+  "locale" : "sk"
+}, {
+  "jsLocale" : "uk",
+  "targetLabel" : "Ukrainian",
+  "label" : "Ukrainian",
+  "locale" : "uk"
+}, {
+  "jsLocale" : "tr",
+  "targetLabel" : "Türkçe",
+  "label" : "Turkish",
+  "locale" : "tr"
+}, {
+  "jsLocale" : "th",
+  "targetLabel" : "Thailand",
+  "label" : "Thailand",
+  "locale" : "th"
+}, {
+  "jsLocale" : "keys",
+  "targetLabel" : "Language for translation",
+  "label" : "Language for translation",
+  "locale" : "keys"
+} ]

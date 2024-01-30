@@ -1,0 +1,77 @@
+
+
+
+
+
+.login-main {
+    display: inline-flex;
+    align-items: start;
+    background: rgba(255,255,255,0.7);
+    border-radius: 8px;
+}
+.login-main .title1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.login-ctnr {
+    margin: 0;
+    max-width: 450px;
+}
+.loginInfos {
+    font-size: 14px;
+    width: 100%;
+    max-width: 400px;
+    margin-right: 20px;
+    text-align: left;
+    background: none;
+}
+.loginInfos h2 {
+    font-size: 20px;
+    line-height: 25px;
+    color: #0bb18f;
+}
+.loginInfos em {
+    font-size: 10px;
+    line-height: 9px;
+}
+.loginContent {
+    min-width: 380px;
+    padding: 1rem 2rem;
+}
+.loginContent .login-form {
+    width: 100%;
+}
+.login-form .login-form-field {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+        .login-navmenu .navmenu-sizer::before {
+        max-width: 120px;
+    }
+
+        .login-langbar {
+       max-width: 120px; 
+    } 
+    .login-langbar form select {
+       min-width: 100%; 
+    }
+
+        .login-main {  
+        flex-direction: column-reverse;
+        width: 100%;
+        max-width: 500px;
+    }
+    .loginInfos {
+        max-width: 100%;
+    }
+    .loginContent {
+        min-width: 100%;
+    }
+}
+
+
+.notice-error {
+    background: rgb(238 219 224 / 60%)
+}
+

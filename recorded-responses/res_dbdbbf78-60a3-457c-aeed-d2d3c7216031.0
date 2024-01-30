@@ -1,0 +1,641 @@
+[ {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "AOM"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "RSD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "RON"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "TRY"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BGN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "YER"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "RWF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "GIP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "PHP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "GYD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "OMR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "USD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "PKR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BZD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "GBP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "PGK"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MWK"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "GNF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CAD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CUP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BTN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "HNL"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "THB"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "AMD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ZAR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SVC"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "UZS"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "SLL"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "TZS"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SAR"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "JPY"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ERN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CHF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BWP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MDL"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "XCD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SYP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "AED"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "XAF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BND"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "GTQ"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "FKP"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "KHR"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "IDR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "JOD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MKD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "LRD"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "COP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "PLN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MOP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ALL"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "IQD"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "IRR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MXN"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "KYD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SGD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "LYD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ANG"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "XOF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "AUD"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "KRW"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "XPF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "LKR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CRC"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "KES"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "UGX"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MAD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "NGN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "NOK"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "NZD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BBD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "FJD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : "ZAR",
+  "currencyCode" : "NAD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "NPR"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "VND"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "DZD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "TTD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BRL"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "GMD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "QAR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "VUV"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MVR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "LSL"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ETB"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "STD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "PAB"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "PEN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : "MRU",
+  "currencyCode" : "MRO"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "UAH"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BOB"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "DOP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "DKK"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "SOS"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "WST"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SZL"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "EUR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "HTG"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BMD"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "ISK"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "TOP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "KZT"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ARS"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "MZN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BHD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "JMD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "LTL"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BDT"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CDF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "UYU"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BAM"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "INR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "EGP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BSD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "HKD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "KWD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MMK"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "DJF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CZK"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "LBP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MUR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CNY"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "MNT"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "RUB"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "KMF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "KPW"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ILS"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SBD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CLP"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "XDR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "TWD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CVE"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "TND"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SCR"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MYR"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "LAK"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "HUF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "KGS"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "NIO"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "AWG"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "SEK"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "BIF"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "MGA"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "GHS"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : "VES",
+  "currencyCode" : "VEF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "AFN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "AOA"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "AZN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "GEL"
+}, {
+  "currencyMultiplyingFactor" : 6,
+  "supplyCurrency" : null,
+  "currencyCode" : "PYG"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "SDG"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "SRD"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "TJS"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "TMT"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "ZWL"
+}, {
+  "currencyMultiplyingFactor" : 0,
+  "supplyCurrency" : null,
+  "currencyCode" : "SSP"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "ZMW"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "BYN"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "CLF"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "MRU"
+}, {
+  "currencyMultiplyingFactor" : 3,
+  "supplyCurrency" : null,
+  "currencyCode" : "VES"
+} ]

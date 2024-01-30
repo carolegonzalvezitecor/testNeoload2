@@ -1,0 +1,24 @@
+{
+  "contracts" : [ {
+    "commercialOffer" : "NEW_GLOBALLIANCE",
+    "policyHolder" : {
+      "activity" : null,
+      "editingName" : "BORDEAUX PARTENAIRE SERVICES",
+      "unitName" : null,
+      "isoCountryCode" : "FRA",
+      "easyNumber" : "00006775708446",
+      "legalId" : null,
+      "name" : "BORDEAUX PARTENAIRE SERVICES",
+      "address" : null
+    },
+    "portfolioNumber" : "   653066",
+    "contractId" : "CONT-01-1138936266",
+    "contractType" : "RTL",
+    "businessLine" : "CreditInsurance",
+    "contractHolderEstabId" : "0000677570844600001",
+    "endEffectDate" : "2025-04-01",
+    "currencyCode" : "EUR",
+    "creationDate" : "2023-01-04"
+  } ],
+  "count" : 1
+}

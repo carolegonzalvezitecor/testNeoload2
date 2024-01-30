@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <meta name="google" content="notranslate" />
+    <meta http-equiv="Content-Language" content="en_US" />
+    <title>CofaNet</title>
+    <base href="/subscriberviewinterface/">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <!-- Call of font icon "Line awesome" -->
+    <link rel="stylesheet" href="assets/fonts/line-awesome1.3.0/css/line-awesome.min.css" />
+    <!--[if gt IE 8]><!-->
+    <script src="assets/ieCustomProperties.js"></script>
+    <!--<![endif]-->
+
+    <style>
+      .app-loader {
+        background: #e1e4e4;
+        height: 100vh;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+      }
+
+      @keyframes rotation {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+      @keyframes animloader {
+        50% {
+          transform: scale(1) translate(-50%, -50%);
+        }
+      }
+      .spinner {
+        margin: 15 auto;
+        width: 48px;
+        height: 48px;
+        display: block;
+        position: relative;
+        color: #fff;
+        box-sizing: border-box;
+        animation: rotation 1s linear infinite;
+      }
+      .spinner::after,
+      .spinner::before {
+        content: '';
+        box-sizing: border-box;
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        top: 50%;
+        left: 50%;
+        transform: scale(0.5) translate(0, 0);
+        background-color: #1c355e;
+        border-radius: 50%;
+        animation: animloader 1s infinite ease-in-out;
+      }
+      .spinner::before {
+        background-color: #e00277;
+        transform: scale(0.5) translate(-48px, -48px);
+      }
+      .spinner-ctnr {
+        display: none;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 10;
+        border-radius: 0.5rem;
+        background: rgba($color-bg-mid-light, 0.5);
+      }
+      .spinner.with-bg {
+        background: rgba($color-bg-mid-light, 1);
+      }
+      .spinner.visible {
+        display: flex;
+      }
+
+      .hoja {
+        color: #00335f;
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Montserrat-semibold';
+      }
+    </style>
+  <link rel="stylesheet" href="/subscriberviewinterface/styles.7e2fc046cc08471902ef.css"></head>
+
+  <body>
+    <app-root>
+      <div class="app-loader">
+        <div class="spinner">
+          <div class="bounce1"></div>
+          <div class="bounce2"></div>
+          <div class="bounce3"></div>
+        </div>
+        <div class="hoja"></div>
+      </div>
+    </app-root>
+    <script src="assets/displayMessage.js"></script>
+  <script src="/subscriberviewinterface/runtime-es2015.2a87b73a77fd9801d824.js" type="module"></script><script src="/subscriberviewinterface/runtime-es5.2a87b73a77fd9801d824.js" nomodule defer></script><script src="/subscriberviewinterface/polyfills-es5.a1b9d3128652ba0286d8.js" nomodule defer></script><script src="/subscriberviewinterface/polyfills-es2015.6ad7e0c56347c5188138.js" type="module"></script><script src="/subscriberviewinterface/scripts.5392441afd98461b85bd.js" defer></script><script src="/subscriberviewinterface/main-es2015.2d2b48404276245379e1.js" type="module"></script><script src="/subscriberviewinterface/main-es5.2d2b48404276245379e1.js" nomodule defer></script></body>
+</html>

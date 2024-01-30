@@ -1,0 +1,16 @@
+GET https://cofanet.coface.com:443/build/main.24be7c62.js HTTP/1.1
+Host: cofanet.coface.com
+Connection: keep-alive
+sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cofanet.coface.com/en/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: languages=ar%2Cbg%2Czh_CN%2Czh_TW%2Ccs%2Cda%2Cde%2Cde_AT%2Cgr%2Cen%2Cen_US%2Ces%2Ces_AR%2Cfi%2Cfr%2Che%2Chr%2Chu%2Cid%2Cit%2Cja%2Clt%2Clv%2Cnl%2Cnl_BE%2Cno%2Cpl%2Cpt%2Cpt_BR%2Cro%2Cru%2Csk%2Csl%2Csv%2Ctr; language=en; TacCp=!analytics=true!googletagmanager=true; httpcookieinsert_session_common=rd5o00000000000000000000ffff0a9eab3ao8080; CofaceToken=BMfSCN8jkM4hkiD6s1tKlx3FIsL7BJoA7E9GVxx+Rm+191BEH/S7Jr0wvcO8lfq0; eZSESSID_COFACE=skdcedjii456v57iqdkg5ql8nb; keyContact=1
+

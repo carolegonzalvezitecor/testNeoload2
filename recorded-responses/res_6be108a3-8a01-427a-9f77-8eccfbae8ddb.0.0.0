@@ -1,0 +1,101 @@
+{
+  "businessPartnerId" : "",
+  "lastConnectionDate" : "2023-08-30T10:09:56",
+  "menuAuthorizations" : {
+    "adverseInformationRight" : true,
+    "declarationRight" : true,
+    "risksRight" : true,
+    "portfolioAnalysisRight" : true,
+    "portfolioFutureRight" : false,
+    "portfolioExpirationRight" : true,
+    "subscriberManagementRight" : true,
+    "messagesRight" : true,
+    "documentsRight" : true,
+    "overduesRight" : true,
+    "contractRight" : true,
+    "projectBPORight" : false,
+    "guaranteeLettersRight" : true,
+    "policyContactManagementRight" : false
+  },
+  "userAuthorizations" : {
+    "adverseInformationRight" : true,
+    "documentRight" : true,
+    "importBPORight" : true,
+    "updateTONRight" : true,
+    "customerRefRight" : true,
+    "policyMasterRight" : false,
+    "createOrUpdateNOARight" : true,
+    "outstandingAmountRight" : true,
+    "notepadRight" : true
+  },
+  "defaultSearchIsoCountryCode" : "FRA",
+  "defaultContract" : {
+    "tradeliner" : true,
+    "information" : false,
+    "easyliner" : false,
+    "maxCapacityUsage" : {
+      "warningThreshold" : null,
+      "blockingThreshold" : null,
+      "currentUsage" : null,
+      "thresholdStatus" : "NOT_APPLICABLE"
+    },
+    "policyHolder" : {
+      "activity" : {
+        "label" : "Autres activites de nettoyage des batiments et nettoyage industriel",
+        "code" : "8122"
+      },
+      "editingName" : "BORDEAUX PARTENAIRE SERVICES",
+      "unitName" : null,
+      "isoCountryCode" : "FRA",
+      "easyNumber" : "00006775708446",
+      "legalId" : {
+        "identifierName" : "SIREN",
+        "identifierValue" : "532033438"
+      },
+      "name" : "BORDEAUX PARTENAIRE SERVICES",
+      "address" : {
+        "sectorCode" : null,
+        "isoCountryCode" : "FRA",
+        "addressLines" : [ "Rue Dauphine" ],
+        "postalCode" : "33127",
+        "cityName" : "ST JEAN D ILLAC"
+      }
+    },
+    "portfolioNumber" : "   653066",
+    "testContract" : false,
+    "contractId" : "CONT-01-1138936266",
+    "currencyCode" : "EUR",
+    "organization" : null
+  },
+  "contractsCount" : 1,
+  "largeAmountThreshold" : 1000,
+  "sessionTimeConfiguration" : {
+    "timeoutPeriod" : 300,
+    "keepAliveCallInterval" : 600,
+    "idleTime" : 6300
+  },
+  "subscriber" : {
+    "civility" : "M.",
+    "masterEntity" : "FRA",
+    "subscriberLastName" : "Mickaël",
+    "subscriberId" : "CG395510",
+    "organizationType" : "01-ORGA-ORGCT",
+    "companyId" : "00006775708446",
+    "subscriberFirstName" : "Guillaume",
+    "segment" : "C",
+    "type" : "CUSTOMER"
+  },
+  "subscriberContracts" : [ {
+    "transformedContractId" : null,
+    "transformedContractIds" : [ ],
+    "portfolioNumber" : "   653066",
+    "contractId" : "CONT-01-1138936266"
+  } ],
+  "defaultLanguage" : "en",
+  "defaultLocale" : {
+    "jsLocale" : "en-gb",
+    "targetLabel" : "English",
+    "label" : "Anglais",
+    "locale" : "en"
+  }
+}

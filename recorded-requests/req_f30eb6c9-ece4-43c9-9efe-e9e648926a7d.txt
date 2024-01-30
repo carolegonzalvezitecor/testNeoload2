@@ -1,0 +1,18 @@
+GET https://cofanet.coface.com:443/en/news/economic-publications?list&sectorId=09 HTTP/1.1
+Host: cofanet.coface.com
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://cofanet.coface.com/en/news/spotlight
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: languages=ar%2Cbg%2Czh_CN%2Czh_TW%2Ccs%2Cda%2Cde%2Cde_AT%2Cgr%2Cen%2Cen_US%2Ces%2Ces_AR%2Cfi%2Cfr%2Che%2Chr%2Chu%2Cid%2Cit%2Cja%2Clt%2Clv%2Cnl%2Cnl_BE%2Cno%2Cpl%2Cpt%2Cpt_BR%2Cro%2Cru%2Csk%2Csl%2Csv%2Ctr; TacCp=!analytics=true!googletagmanager=true; language=en; tarteaucitron=!googleadsfollow=true!googletagmanager=true!addthis=true; _lfa=LF1.1.6c4bf2170e44c934.1697723909077; didomi_token=eyJ1c2VyX2lkIjoiMThiODAzN2YtZjk1MC02MmYzLWFkNzYtOTBkYmQ4ZTEzNTgxIiwiY3JlYXRlZCI6IjIwMjMtMTAtMzBUMTA6NTQ6MDYuNjM5WiIsInVwZGF0ZWQiOiIyMDIzLTEwLTMwVDEwOjU0OjA2LjYzOVoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImM6Z29vZ2xlYW5hLTRUWG5KaWdSIl19LCJ2ZXJzaW9uIjoyfQ==; euconsent-v2=CP0dXQAP0dXQAAHABBENAXEgAAAAAAAAAAAAAAAAAAAA.YAAAAAAAAAAA; _ga_832TQZDV53=GS1.1.1698681752.3.1.1698681846.0.0.0; _ga_P4V3X49QHT=GS1.2.1698681752.3.1.1698681847.45.0.0; _ga_G25P7SDFE2=GS1.1.1699963974.2.1.1699963997.37.0.0; _gid=GA1.2.244831938.1700493649; httpcookieinsert_session_common=rd5o00000000000000000000ffff0a9eab3ao8080; CofaceToken=BMfSCN8jkM6QksQCYyO41kvxWZz4kInPt/Eu3QEt3bDfHGGD4YGJyYnFsNPhvAEj; eZSESSID_COFACE=kdd2ri62ghirtcefgpbr9dv8lb; keyContact=1; elNotification=1; _gat_UA-91583430-3=1; _ga=GA1.1.1699498030.1649775439; _ga_0FBLG0JRM5=GS1.1.1700500693.11.1.1700501983.51.0.0; _ga_N8Z9BB82V1=GS1.1.1700500709.12.1.1700501983.0.0.0
+

@@ -1,0 +1,1612 @@
+[ {
+  "type" : "CRSnumber",
+  "values" : [ {
+    "isoCountryCode" : "ABW",
+    "mask" : "13\\9******"
+  }, {
+    "isoCountryCode" : "AFG",
+    "mask" : "105******"
+  }, {
+    "isoCountryCode" : "AGO",
+    "mask" : "125******"
+  }, {
+    "isoCountryCode" : "AIA",
+    "mask" : "1\\98******"
+  }, {
+    "isoCountryCode" : "ALB",
+    "mask" : "115******"
+  }, {
+    "isoCountryCode" : "AND",
+    "mask" : "124******"
+  }, {
+    "isoCountryCode" : "ANT",
+    "mask" : "\\972******"
+  }, {
+    "isoCountryCode" : "AR1",
+    "mask" : "103******"
+  }, {
+    "isoCountryCode" : "AR2",
+    "mask" : "106******"
+  }, {
+    "isoCountryCode" : "AR3",
+    "mask" : "268******"
+  }, {
+    "isoCountryCode" : "AR4",
+    "mask" : "303******"
+  }, {
+    "isoCountryCode" : "AR5",
+    "mask" : "545******"
+  }, {
+    "isoCountryCode" : "AR6",
+    "mask" : "563******"
+  }, {
+    "isoCountryCode" : "AR7",
+    "mask" : "624******"
+  }, {
+    "isoCountryCode" : "ARG",
+    "mask" : "135******"
+  }, {
+    "isoCountryCode" : "ARM",
+    "mask" : "138******"
+  }, {
+    "isoCountryCode" : "ASM",
+    "mask" : "\\945******"
+  }, {
+    "isoCountryCode" : "ATF",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "ATG",
+    "mask" : "1\\97******"
+  }, {
+    "isoCountryCode" : "AUS",
+    "mask" : "140******"
+  }, {
+    "isoCountryCode" : "AUT",
+    "mask" : "145******"
+  }, {
+    "isoCountryCode" : "AZE",
+    "mask" : "147******"
+  }, {
+    "isoCountryCode" : "BDI",
+    "mask" : "181******"
+  }, {
+    "isoCountryCode" : "BEL",
+    "mask" : "155******"
+  }, {
+    "isoCountryCode" : "BEN",
+    "mask" : "255******"
+  }, {
+    "isoCountryCode" : "BFA",
+    "mask" : "330******"
+  }, {
+    "isoCountryCode" : "BGD",
+    "mask" : "156******"
+  }, {
+    "isoCountryCode" : "BGR",
+    "mask" : "180******"
+  }, {
+    "isoCountryCode" : "BHR",
+    "mask" : "153******"
+  }, {
+    "isoCountryCode" : "BHS",
+    "mask" : "150******"
+  }, {
+    "isoCountryCode" : "BIH",
+    "mask" : "172******"
+  }, {
+    "isoCountryCode" : "BLR",
+    "mask" : "164******"
+  }, {
+    "isoCountryCode" : "BLZ",
+    "mask" : "341******"
+  }, {
+    "isoCountryCode" : "BMU",
+    "mask" : "160******"
+  }, {
+    "isoCountryCode" : "BOL",
+    "mask" : "170******"
+  }, {
+    "isoCountryCode" : "BRA",
+    "mask" : "175******"
+  }, {
+    "isoCountryCode" : "BRB",
+    "mask" : "154******"
+  }, {
+    "isoCountryCode" : "BRN",
+    "mask" : "177******"
+  }, {
+    "isoCountryCode" : "BTN",
+    "mask" : "163******"
+  }, {
+    "isoCountryCode" : "BWA",
+    "mask" : "173******"
+  }, {
+    "isoCountryCode" : "CAF",
+    "mask" : "200******"
+  }, {
+    "isoCountryCode" : "CAN",
+    "mask" : "1\\95******"
+  }, {
+    "isoCountryCode" : "CCK",
+    "mask" : "\\905******"
+  }, {
+    "isoCountryCode" : "CHE",
+    "mask" : "570******"
+  }, {
+    "isoCountryCode" : "CHL",
+    "mask" : "210******"
+  }, {
+    "isoCountryCode" : "CHN",
+    "mask" : "215******"
+  }, {
+    "isoCountryCode" : "CIV",
+    "mask" : "245******"
+  }, {
+    "isoCountryCode" : "CMR",
+    "mask" : "1\\90******"
+  }, {
+    "isoCountryCode" : "COD",
+    "mask" : "230******"
+  }, {
+    "isoCountryCode" : "COG",
+    "mask" : "231******"
+  }, {
+    "isoCountryCode" : "COK",
+    "mask" : "\\965******"
+  }, {
+    "isoCountryCode" : "COL",
+    "mask" : "225******"
+  }, {
+    "isoCountryCode" : "COM",
+    "mask" : "228******"
+  }, {
+    "isoCountryCode" : "CPV",
+    "mask" : "1\\96******"
+  }, {
+    "isoCountryCode" : "CRI",
+    "mask" : "240******"
+  }, {
+    "isoCountryCode" : "CUB",
+    "mask" : "250******"
+  }, {
+    "isoCountryCode" : "CXR",
+    "mask" : "\\905******"
+  }, {
+    "isoCountryCode" : "CYM",
+    "mask" : "\\9\\91******"
+  }, {
+    "isoCountryCode" : "CYP",
+    "mask" : "220******"
+  }, {
+    "isoCountryCode" : "CZE",
+    "mask" : "583******"
+  }, {
+    "isoCountryCode" : "DEU",
+    "mask" : "121******"
+  }, {
+    "isoCountryCode" : "DJI",
+    "mask" : "104******"
+  }, {
+    "isoCountryCode" : "DMA",
+    "mask" : "263******"
+  }, {
+    "isoCountryCode" : "DNK",
+    "mask" : "260******"
+  }, {
+    "isoCountryCode" : "DOM",
+    "mask" : "265******"
+  }, {
+    "isoCountryCode" : "DZA",
+    "mask" : "116******"
+  }, {
+    "isoCountryCode" : "ECU",
+    "mask" : "275******"
+  }, {
+    "isoCountryCode" : "EGY",
+    "mask" : "270******"
+  }, {
+    "isoCountryCode" : "ERI",
+    "mask" : "277******"
+  }, {
+    "isoCountryCode" : "ESP",
+    "mask" : "280******"
+  }, {
+    "isoCountryCode" : "EST",
+    "mask" : "282******"
+  }, {
+    "isoCountryCode" : "ETH",
+    "mask" : "2\\90******"
+  }, {
+    "isoCountryCode" : "FIN",
+    "mask" : "300******"
+  }, {
+    "isoCountryCode" : "FJI",
+    "mask" : "2\\97******"
+  }, {
+    "isoCountryCode" : "FLK",
+    "mask" : "\\9\\91******"
+  }, {
+    "isoCountryCode" : "FRA",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "FRO",
+    "mask" : "\\924******"
+  }, {
+    "isoCountryCode" : "GAB",
+    "mask" : "305******"
+  }, {
+    "isoCountryCode" : "GBR",
+    "mask" : "555******"
+  }, {
+    "isoCountryCode" : "GEO",
+    "mask" : "30\\9******"
+  }, {
+    "isoCountryCode" : "GHA",
+    "mask" : "310******"
+  }, {
+    "isoCountryCode" : "GIB",
+    "mask" : "312******"
+  }, {
+    "isoCountryCode" : "GIN",
+    "mask" : "325******"
+  }, {
+    "isoCountryCode" : "GLP",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "GMB",
+    "mask" : "306******"
+  }, {
+    "isoCountryCode" : "GNB",
+    "mask" : "327******"
+  }, {
+    "isoCountryCode" : "GNQ",
+    "mask" : "326******"
+  }, {
+    "isoCountryCode" : "GRC",
+    "mask" : "315******"
+  }, {
+    "isoCountryCode" : "GRD",
+    "mask" : "317******"
+  }, {
+    "isoCountryCode" : "GTM",
+    "mask" : "320******"
+  }, {
+    "isoCountryCode" : "GUF",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "GUM",
+    "mask" : "\\945******"
+  }, {
+    "isoCountryCode" : "GUY",
+    "mask" : "328******"
+  }, {
+    "isoCountryCode" : "HKG",
+    "mask" : "345******"
+  }, {
+    "isoCountryCode" : "HMD",
+    "mask" : "\\905******"
+  }, {
+    "isoCountryCode" : "HND",
+    "mask" : "340******"
+  }, {
+    "isoCountryCode" : "HRV",
+    "mask" : "248******"
+  }, {
+    "isoCountryCode" : "HTI",
+    "mask" : "335******"
+  }, {
+    "isoCountryCode" : "HUN",
+    "mask" : "350******"
+  }, {
+    "isoCountryCode" : "IDN",
+    "mask" : "360******"
+  }, {
+    "isoCountryCode" : "IND",
+    "mask" : "355******"
+  }, {
+    "isoCountryCode" : "IOT",
+    "mask" : "\\9\\95******"
+  }, {
+    "isoCountryCode" : "IRL",
+    "mask" : "375******"
+  }, {
+    "isoCountryCode" : "IRN",
+    "mask" : "370******"
+  }, {
+    "isoCountryCode" : "IRQ",
+    "mask" : "365******"
+  }, {
+    "isoCountryCode" : "ISL",
+    "mask" : "380******"
+  }, {
+    "isoCountryCode" : "ISR",
+    "mask" : "385******"
+  }, {
+    "isoCountryCode" : "ITA",
+    "mask" : "3\\90******"
+  }, {
+    "isoCountryCode" : "JAM",
+    "mask" : "3\\93******"
+  }, {
+    "isoCountryCode" : "JOR",
+    "mask" : "400******"
+  }, {
+    "isoCountryCode" : "JPN",
+    "mask" : "3\\95******"
+  }, {
+    "isoCountryCode" : "KAZ",
+    "mask" : "406******"
+  }, {
+    "isoCountryCode" : "KEN",
+    "mask" : "410******"
+  }, {
+    "isoCountryCode" : "KGZ",
+    "mask" : "411******"
+  }, {
+    "isoCountryCode" : "KHM",
+    "mask" : "185******"
+  }, {
+    "isoCountryCode" : "KIR",
+    "mask" : "412******"
+  }, {
+    "isoCountryCode" : "KNA",
+    "mask" : "572******"
+  }, {
+    "isoCountryCode" : "KOR",
+    "mask" : "236******"
+  }, {
+    "isoCountryCode" : "KSV",
+    "mask" : "646******"
+  }, {
+    "isoCountryCode" : "KWT",
+    "mask" : "415******"
+  }, {
+    "isoCountryCode" : "LAO",
+    "mask" : "420******"
+  }, {
+    "isoCountryCode" : "LBN",
+    "mask" : "425******"
+  }, {
+    "isoCountryCode" : "LBR",
+    "mask" : "430******"
+  }, {
+    "isoCountryCode" : "LBY",
+    "mask" : "435******"
+  }, {
+    "isoCountryCode" : "LCA",
+    "mask" : "571******"
+  }, {
+    "isoCountryCode" : "LIE",
+    "mask" : "440******"
+  }, {
+    "isoCountryCode" : "LKA",
+    "mask" : "205******"
+  }, {
+    "isoCountryCode" : "LSO",
+    "mask" : "423******"
+  }, {
+    "isoCountryCode" : "LTU",
+    "mask" : "442******"
+  }, {
+    "isoCountryCode" : "LUX",
+    "mask" : "445******"
+  }, {
+    "isoCountryCode" : "LVA",
+    "mask" : "424******"
+  }, {
+    "isoCountryCode" : "MAC",
+    "mask" : "\\983******"
+  }, {
+    "isoCountryCode" : "MAR",
+    "mask" : "465******"
+  }, {
+    "isoCountryCode" : "MCO",
+    "mask" : "476******"
+  }, {
+    "isoCountryCode" : "MDA",
+    "mask" : "478******"
+  }, {
+    "isoCountryCode" : "MDG",
+    "mask" : "455******"
+  }, {
+    "isoCountryCode" : "MDV",
+    "mask" : "453******"
+  }, {
+    "isoCountryCode" : "MEX",
+    "mask" : "475******"
+  }, {
+    "isoCountryCode" : "MHL",
+    "mask" : "464******"
+  }, {
+    "isoCountryCode" : "MKD",
+    "mask" : "44\\9******"
+  }, {
+    "isoCountryCode" : "MLI",
+    "mask" : "460******"
+  }, {
+    "isoCountryCode" : "MLT",
+    "mask" : "461******"
+  }, {
+    "isoCountryCode" : "MMR",
+    "mask" : "165******"
+  }, {
+    "isoCountryCode" : "MNE",
+    "mask" : "648******"
+  }, {
+    "isoCountryCode" : "MNG",
+    "mask" : "477******"
+  }, {
+    "isoCountryCode" : "MNP",
+    "mask" : "\\945******"
+  }, {
+    "isoCountryCode" : "MOZ",
+    "mask" : "480******"
+  }, {
+    "isoCountryCode" : "MRT",
+    "mask" : "470******"
+  }, {
+    "isoCountryCode" : "MSR",
+    "mask" : "\\9\\91******"
+  }, {
+    "isoCountryCode" : "MTQ",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "MUS",
+    "mask" : "466******"
+  }, {
+    "isoCountryCode" : "MWI",
+    "mask" : "451******"
+  }, {
+    "isoCountryCode" : "MYS",
+    "mask" : "450******"
+  }, {
+    "isoCountryCode" : "MYT",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "NAM",
+    "mask" : "564******"
+  }, {
+    "isoCountryCode" : "NCL",
+    "mask" : "501******"
+  }, {
+    "isoCountryCode" : "NER",
+    "mask" : "48\\9******"
+  }, {
+    "isoCountryCode" : "NFK",
+    "mask" : "\\905******"
+  }, {
+    "isoCountryCode" : "NGA",
+    "mask" : "4\\90******"
+  }, {
+    "isoCountryCode" : "NIC",
+    "mask" : "485******"
+  }, {
+    "isoCountryCode" : "NIU",
+    "mask" : "\\935******"
+  }, {
+    "isoCountryCode" : "NLD",
+    "mask" : "520******"
+  }, {
+    "isoCountryCode" : "NOR",
+    "mask" : "4\\95******"
+  }, {
+    "isoCountryCode" : "NPL",
+    "mask" : "483******"
+  }, {
+    "isoCountryCode" : "NRU",
+    "mask" : "481******"
+  }, {
+    "isoCountryCode" : "NZL",
+    "mask" : "500******"
+  }, {
+    "isoCountryCode" : "OMN",
+    "mask" : "4\\98******"
+  }, {
+    "isoCountryCode" : "PAK",
+    "mask" : "505******"
+  }, {
+    "isoCountryCode" : "PAN",
+    "mask" : "510******"
+  }, {
+    "isoCountryCode" : "PCN",
+    "mask" : "\\945******"
+  }, {
+    "isoCountryCode" : "PER",
+    "mask" : "525******"
+  }, {
+    "isoCountryCode" : "PHL",
+    "mask" : "530******"
+  }, {
+    "isoCountryCode" : "PLW",
+    "mask" : "\\945******"
+  }, {
+    "isoCountryCode" : "PNG",
+    "mask" : "512******"
+  }, {
+    "isoCountryCode" : "POL",
+    "mask" : "535******"
+  }, {
+    "isoCountryCode" : "PRI",
+    "mask" : "\\942******"
+  }, {
+    "isoCountryCode" : "PRK",
+    "mask" : "235******"
+  }, {
+    "isoCountryCode" : "PRT",
+    "mask" : "540******"
+  }, {
+    "isoCountryCode" : "PRY",
+    "mask" : "515******"
+  }, {
+    "isoCountryCode" : "PSE",
+    "mask" : "386******"
+  }, {
+    "isoCountryCode" : "PYF",
+    "mask" : "537******"
+  }, {
+    "isoCountryCode" : "QAT",
+    "mask" : "405******"
+  }, {
+    "isoCountryCode" : "REU",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "ROU",
+    "mask" : "550******"
+  }, {
+    "isoCountryCode" : "RUS",
+    "mask" : "552******"
+  }, {
+    "isoCountryCode" : "RWA",
+    "mask" : "554******"
+  }, {
+    "isoCountryCode" : "SAU",
+    "mask" : "130******"
+  }, {
+    "isoCountryCode" : "SDN",
+    "mask" : "562******"
+  }, {
+    "isoCountryCode" : "SEN",
+    "mask" : "560******"
+  }, {
+    "isoCountryCode" : "SGP",
+    "mask" : "558******"
+  }, {
+    "isoCountryCode" : "SGS",
+    "mask" : "\\9\\91******"
+  }, {
+    "isoCountryCode" : "SHN",
+    "mask" : "\\9\\91******"
+  }, {
+    "isoCountryCode" : "SLB",
+    "mask" : "568******"
+  }, {
+    "isoCountryCode" : "SLE",
+    "mask" : "55\\9******"
+  }, {
+    "isoCountryCode" : "SLV",
+    "mask" : "557******"
+  }, {
+    "isoCountryCode" : "SMR",
+    "mask" : "556******"
+  }, {
+    "isoCountryCode" : "SOM",
+    "mask" : "561******"
+  }, {
+    "isoCountryCode" : "SPM",
+    "mask" : "100******"
+  }, {
+    "isoCountryCode" : "SRB",
+    "mask" : "647******"
+  }, {
+    "isoCountryCode" : "SSD",
+    "mask" : "728******"
+  }, {
+    "isoCountryCode" : "STP",
+    "mask" : "542******"
+  }, {
+    "isoCountryCode" : "SUR",
+    "mask" : "\\971******"
+  }, {
+    "isoCountryCode" : "SVK",
+    "mask" : "584******"
+  }, {
+    "isoCountryCode" : "SVN",
+    "mask" : "56\\9******"
+  }, {
+    "isoCountryCode" : "SWE",
+    "mask" : "565******"
+  }, {
+    "isoCountryCode" : "SWZ",
+    "mask" : "484******"
+  }, {
+    "isoCountryCode" : "SYC",
+    "mask" : "566******"
+  }, {
+    "isoCountryCode" : "SYR",
+    "mask" : "575******"
+  }, {
+    "isoCountryCode" : "TCA",
+    "mask" : "60\\9******"
+  }, {
+    "isoCountryCode" : "TCD",
+    "mask" : "582******"
+  }, {
+    "isoCountryCode" : "TGO",
+    "mask" : "5\\95******"
+  }, {
+    "isoCountryCode" : "THA",
+    "mask" : "5\\90******"
+  }, {
+    "isoCountryCode" : "TJK",
+    "mask" : "577******"
+  }, {
+    "isoCountryCode" : "TKL",
+    "mask" : "\\935******"
+  }, {
+    "isoCountryCode" : "TKM",
+    "mask" : "608******"
+  }, {
+    "isoCountryCode" : "TLS",
+    "mask" : "362******"
+  }, {
+    "isoCountryCode" : "TON",
+    "mask" : "5\\97******"
+  }, {
+    "isoCountryCode" : "TTO",
+    "mask" : "600******"
+  }, {
+    "isoCountryCode" : "TUN",
+    "mask" : "605******"
+  }, {
+    "isoCountryCode" : "TUR",
+    "mask" : "610******"
+  }, {
+    "isoCountryCode" : "TUV",
+    "mask" : "613******"
+  }, {
+    "isoCountryCode" : "TWN",
+    "mask" : "580******"
+  }, {
+    "isoCountryCode" : "TZA",
+    "mask" : "581******"
+  }, {
+    "isoCountryCode" : "UGA",
+    "mask" : "4\\96******"
+  }, {
+    "isoCountryCode" : "UKR",
+    "mask" : "617******"
+  }, {
+    "isoCountryCode" : "UMI",
+    "mask" : "\\945******"
+  }, {
+    "isoCountryCode" : "URY",
+    "mask" : "625******"
+  }, {
+    "isoCountryCode" : "US1",
+    "mask" : "\\942******"
+  }, {
+    "isoCountryCode" : "USA",
+    "mask" : "285******"
+  }, {
+    "isoCountryCode" : "UZB",
+    "mask" : "4\\97******"
+  }, {
+    "isoCountryCode" : "VAT",
+    "mask" : "628******"
+  }, {
+    "isoCountryCode" : "VCT",
+    "mask" : "573******"
+  }, {
+    "isoCountryCode" : "VEN",
+    "mask" : "630******"
+  }, {
+    "isoCountryCode" : "VGB",
+    "mask" : "\\9\\91******"
+  }, {
+    "isoCountryCode" : "VIR",
+    "mask" : "\\942******"
+  }, {
+    "isoCountryCode" : "VNM",
+    "mask" : "635******"
+  }, {
+    "isoCountryCode" : "VUT",
+    "mask" : "\\9\\98******"
+  }, {
+    "isoCountryCode" : "WLF",
+    "mask" : "650******"
+  }, {
+    "isoCountryCode" : "WSM",
+    "mask" : "660******"
+  }, {
+    "isoCountryCode" : "YEM",
+    "mask" : "640******"
+  }, {
+    "isoCountryCode" : "ZAF",
+    "mask" : "615******"
+  }, {
+    "isoCountryCode" : "ZMB",
+    "mask" : "649******"
+  }, {
+    "isoCountryCode" : "ZWE",
+    "mask" : "544******"
+  } ]
+}, {
+  "type" : "EasyNumber",
+  "values" : [ {
+    "isoCountryCode" : "ALL",
+    "mask" : "*9999999999999"
+  } ]
+}, {
+  "type" : "LegalId_DUN_CAN",
+  "values" : [ {
+    "isoCountryCode" : "CAN",
+    "mask" : "999999999"
+  } ]
+}, {
+  "type" : "LegalId_DUN_US1",
+  "values" : [ {
+    "isoCountryCode" : "US1",
+    "mask" : "999999999"
+  } ]
+}, {
+  "type" : "LegalId_DUN_USA",
+  "values" : [ {
+    "isoCountryCode" : "USA",
+    "mask" : "999999999"
+  } ]
+}, {
+  "type" : "LegalId_HRN_NLD",
+  "values" : [ {
+    "isoCountryCode" : "NLD",
+    "mask" : "99999999"
+  } ]
+}, {
+  "type" : "LegalId_NIF_ESP",
+  "values" : [ {
+    "isoCountryCode" : "ESP",
+    "mask" : "ES*9999999*"
+  } ]
+}, {
+  "type" : "LegalId_SIREN",
+  "values" : [ {
+    "isoCountryCode" : "FRA",
+    "mask" : "999999999"
+  } ]
+}, {
+  "type" : "LegalId_TAX_PRT",
+  "values" : [ {
+    "isoCountryCode" : "PRT",
+    "mask" : "PT999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_BEL",
+  "values" : [ {
+    "isoCountryCode" : "BEL",
+    "mask" : "BE0999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_BLR",
+  "values" : [ {
+    "isoCountryCode" : "BLR",
+    "mask" : "999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_CYP",
+  "values" : [ {
+    "isoCountryCode" : "CYP",
+    "mask" : "CY99999999L"
+  } ]
+}, {
+  "type" : "LegalId_VAT_DEU",
+  "values" : [ {
+    "isoCountryCode" : "DEU",
+    "mask" : "DE999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_EST",
+  "values" : [ {
+    "isoCountryCode" : "EST",
+    "mask" : "EE999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_FIN",
+  "values" : [ {
+    "isoCountryCode" : "FIN",
+    "mask" : "FI99999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_FRA",
+  "values" : [ {
+    "isoCountryCode" : "FRA",
+    "mask" : "FR**999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_GRC",
+  "values" : [ {
+    "isoCountryCode" : "GRC",
+    "mask" : "EL999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_ITA",
+  "values" : [ {
+    "isoCountryCode" : "ITA",
+    "mask" : "IT99999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_LUX",
+  "values" : [ {
+    "isoCountryCode" : "LUX",
+    "mask" : "LU99999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_LVA",
+  "values" : [ {
+    "isoCountryCode" : "LVA",
+    "mask" : "LV99999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_MLT",
+  "values" : [ {
+    "isoCountryCode" : "MLT",
+    "mask" : "MT99999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_NLD",
+  "values" : [ {
+    "isoCountryCode" : "NLD",
+    "mask" : "NL999999999B99"
+  } ]
+}, {
+  "type" : "LegalId_VAT_ROU",
+  "values" : [ {
+    "isoCountryCode" : "ROU",
+    "mask" : "999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_SVK",
+  "values" : [ {
+    "isoCountryCode" : "SVK",
+    "mask" : "SK9999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_SVN",
+  "values" : [ {
+    "isoCountryCode" : "SVN",
+    "mask" : "SI99999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_SWE",
+  "values" : [ {
+    "isoCountryCode" : "SWE",
+    "mask" : "SE999999999999"
+  } ]
+}, {
+  "type" : "LegalId_VAT_TUR",
+  "values" : [ {
+    "isoCountryCode" : "TUR",
+    "mask" : "9999999999"
+  } ]
+}, {
+  "type" : "PhoneNumber",
+  "values" : [ {
+    "isoCountryCode" : "ABW",
+    "mask" : "+2\\97 999 9999"
+  }, {
+    "isoCountryCode" : "AFG",
+    "mask" : "+\\93 099 999 9999"
+  }, {
+    "isoCountryCode" : "AGO",
+    "mask" : "+244 999 999 999"
+  }, {
+    "isoCountryCode" : "AIA",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "ALB",
+    "mask" : "+355 099 999 999"
+  }, {
+    "isoCountryCode" : "AND",
+    "mask" : "+376 999999999"
+  }, {
+    "isoCountryCode" : "ANT",
+    "mask" : "+5\\9\\9 999999999"
+  }, {
+    "isoCountryCode" : "ARE",
+    "mask" : "+\\971 999999999"
+  }, {
+    "isoCountryCode" : "ARG",
+    "mask" : "+54 9999999999"
+  }, {
+    "isoCountryCode" : "ARM",
+    "mask" : "+374 099 999999"
+  }, {
+    "isoCountryCode" : "ASM",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "ATA",
+    "mask" : "+672 999999999"
+  }, {
+    "isoCountryCode" : "ATF",
+    "mask" : "+262 999999999"
+  }, {
+    "isoCountryCode" : "ATG",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "AUS",
+    "mask" : "+61 999 999 999"
+  }, {
+    "isoCountryCode" : "AUT",
+    "mask" : "+43 9999 999999999"
+  }, {
+    "isoCountryCode" : "AZE",
+    "mask" : "+994 999999999"
+  }, {
+    "isoCountryCode" : "BDI",
+    "mask" : "+257 999999999"
+  }, {
+    "isoCountryCode" : "BEL",
+    "mask" : "+32 999999999"
+  }, {
+    "isoCountryCode" : "BEN",
+    "mask" : "+22\\9 999999999"
+  }, {
+    "isoCountryCode" : "BFA",
+    "mask" : "+226 999999999"
+  }, {
+    "isoCountryCode" : "BGD",
+    "mask" : "+880 999999999"
+  }, {
+    "isoCountryCode" : "BGR",
+    "mask" : "+35\\9 999999999"
+  }, {
+    "isoCountryCode" : "BHR",
+    "mask" : "+\\973 999999999"
+  }, {
+    "isoCountryCode" : "BHS",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "BIH",
+    "mask" : "+387 999999999"
+  }, {
+    "isoCountryCode" : "BLR",
+    "mask" : "+375 999999999"
+  }, {
+    "isoCountryCode" : "BLZ",
+    "mask" : "+501 999999999"
+  }, {
+    "isoCountryCode" : "BMU",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "BOL",
+    "mask" : "+5\\91 999999999"
+  }, {
+    "isoCountryCode" : "BRA",
+    "mask" : "+55 9999999999"
+  }, {
+    "isoCountryCode" : "BRB",
+    "mask" : "+1 999999999"
+  }, {
+    "isoCountryCode" : "BRN",
+    "mask" : "+673 999999999"
+  }, {
+    "isoCountryCode" : "BTN",
+    "mask" : "+\\975 999999999"
+  }, {
+    "isoCountryCode" : "BVT",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "BWA",
+    "mask" : "+267 999999999"
+  }, {
+    "isoCountryCode" : "CAF",
+    "mask" : "+236 999999999"
+  }, {
+    "isoCountryCode" : "CAN",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "CCK",
+    "mask" : "+61 999999999"
+  }, {
+    "isoCountryCode" : "CHE",
+    "mask" : "+41 999999999"
+  }, {
+    "isoCountryCode" : "CHL",
+    "mask" : "+56 999999999"
+  }, {
+    "isoCountryCode" : "CHN",
+    "mask" : "+86 999999999"
+  }, {
+    "isoCountryCode" : "CIV",
+    "mask" : "+225 999999999"
+  }, {
+    "isoCountryCode" : "CMR",
+    "mask" : "+237 999999999"
+  }, {
+    "isoCountryCode" : "COD",
+    "mask" : "+243 999999999"
+  }, {
+    "isoCountryCode" : "COG",
+    "mask" : "+242 999999999"
+  }, {
+    "isoCountryCode" : "COK",
+    "mask" : "+682 999999999"
+  }, {
+    "isoCountryCode" : "COL",
+    "mask" : "+57 999999999"
+  }, {
+    "isoCountryCode" : "COM",
+    "mask" : "+26\\9 999999999"
+  }, {
+    "isoCountryCode" : "CPV",
+    "mask" : "+238 999999999"
+  }, {
+    "isoCountryCode" : "CRI",
+    "mask" : "+506 999999999"
+  }, {
+    "isoCountryCode" : "CUB",
+    "mask" : "+53 999999999"
+  }, {
+    "isoCountryCode" : "CXR",
+    "mask" : "+61 999999999"
+  }, {
+    "isoCountryCode" : "CYM",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "CYP",
+    "mask" : "+357 999999999"
+  }, {
+    "isoCountryCode" : "CZE",
+    "mask" : "+420 999999999"
+  }, {
+    "isoCountryCode" : "DEU",
+    "mask" : "+4\\9 9999999999"
+  }, {
+    "isoCountryCode" : "DJI",
+    "mask" : "+253 999999999"
+  }, {
+    "isoCountryCode" : "DMA",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "DNK",
+    "mask" : "+45 999999999"
+  }, {
+    "isoCountryCode" : "DOM",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "DZA",
+    "mask" : "+213 0999 99 99 99"
+  }, {
+    "isoCountryCode" : "ECU",
+    "mask" : "+5\\93 999999999"
+  }, {
+    "isoCountryCode" : "EGY",
+    "mask" : "+20 999999999"
+  }, {
+    "isoCountryCode" : "ERI",
+    "mask" : "+2\\91 999999999"
+  }, {
+    "isoCountryCode" : "ESH",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "ESP",
+    "mask" : "+34 999999999"
+  }, {
+    "isoCountryCode" : "EST",
+    "mask" : "+372 999999999"
+  }, {
+    "isoCountryCode" : "ETH",
+    "mask" : "+251 999999999"
+  }, {
+    "isoCountryCode" : "FIN",
+    "mask" : "+358 999999999"
+  }, {
+    "isoCountryCode" : "FJI",
+    "mask" : "+67\\9 999999999"
+  }, {
+    "isoCountryCode" : "FLK",
+    "mask" : "+500 999999999"
+  }, {
+    "isoCountryCode" : "FRA",
+    "mask" : "+33 9 99 99 99 99"
+  }, {
+    "isoCountryCode" : "FRO",
+    "mask" : "+2\\98 999999999"
+  }, {
+    "isoCountryCode" : "FSM",
+    "mask" : "+6\\91 999999999"
+  }, {
+    "isoCountryCode" : "GAB",
+    "mask" : "+241 999999999"
+  }, {
+    "isoCountryCode" : "GBR",
+    "mask" : "+44 (999) 9999 9999"
+  }, {
+    "isoCountryCode" : "GEO",
+    "mask" : "+\\9\\95 999999999"
+  }, {
+    "isoCountryCode" : "GHA",
+    "mask" : "+233 999999999"
+  }, {
+    "isoCountryCode" : "GIB",
+    "mask" : "+350 999999999"
+  }, {
+    "isoCountryCode" : "GIN",
+    "mask" : "+224 999999999"
+  }, {
+    "isoCountryCode" : "GLP",
+    "mask" : "+5\\90 999999999"
+  }, {
+    "isoCountryCode" : "GMB",
+    "mask" : "+220 999999999"
+  }, {
+    "isoCountryCode" : "GNB",
+    "mask" : "+245 999999999"
+  }, {
+    "isoCountryCode" : "GNQ",
+    "mask" : "+240 999999999"
+  }, {
+    "isoCountryCode" : "GRC",
+    "mask" : "+30 999999999"
+  }, {
+    "isoCountryCode" : "GRD",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "GRL",
+    "mask" : "+2\\9\\9 999999999"
+  }, {
+    "isoCountryCode" : "GTM",
+    "mask" : "+502 999999999"
+  }, {
+    "isoCountryCode" : "GUF",
+    "mask" : "+5\\94 999999999"
+  }, {
+    "isoCountryCode" : "GUM",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "GUY",
+    "mask" : "+5\\92 999999999"
+  }, {
+    "isoCountryCode" : "HKG",
+    "mask" : "+852 999999999"
+  }, {
+    "isoCountryCode" : "HMD",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "HND",
+    "mask" : "+504 999999999"
+  }, {
+    "isoCountryCode" : "HRV",
+    "mask" : "+385 999999999"
+  }, {
+    "isoCountryCode" : "HTI",
+    "mask" : "+50\\9 999999999"
+  }, {
+    "isoCountryCode" : "HUN",
+    "mask" : "+36 999999999"
+  }, {
+    "isoCountryCode" : "IDN",
+    "mask" : "+62 999999999"
+  }, {
+    "isoCountryCode" : "IND",
+    "mask" : "+\\91 999999999"
+  }, {
+    "isoCountryCode" : "IOT",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "IRL",
+    "mask" : "+353 999999999"
+  }, {
+    "isoCountryCode" : "IRN",
+    "mask" : "+\\98 999999999"
+  }, {
+    "isoCountryCode" : "IRQ",
+    "mask" : "+\\964 999999999"
+  }, {
+    "isoCountryCode" : "ISL",
+    "mask" : "+354 999999999"
+  }, {
+    "isoCountryCode" : "ISR",
+    "mask" : "+\\972 999999999"
+  }, {
+    "isoCountryCode" : "ITA",
+    "mask" : "+3\\9 999999999"
+  }, {
+    "isoCountryCode" : "JAM",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "JOR",
+    "mask" : "+\\962 999999999"
+  }, {
+    "isoCountryCode" : "JPN",
+    "mask" : "+81 999999999"
+  }, {
+    "isoCountryCode" : "KAZ",
+    "mask" : "+7 999999999"
+  }, {
+    "isoCountryCode" : "KEN",
+    "mask" : "+254 999999999"
+  }, {
+    "isoCountryCode" : "KGZ",
+    "mask" : "+\\9\\96 999999999"
+  }, {
+    "isoCountryCode" : "KHM",
+    "mask" : "+855 999999999"
+  }, {
+    "isoCountryCode" : "KIR",
+    "mask" : "+686 999999999"
+  }, {
+    "isoCountryCode" : "KNA",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "KOR",
+    "mask" : "+82 999999999"
+  }, {
+    "isoCountryCode" : "KWT",
+    "mask" : "+\\965 999999999"
+  }, {
+    "isoCountryCode" : "LAO",
+    "mask" : "+856 999999999"
+  }, {
+    "isoCountryCode" : "LBN",
+    "mask" : "+\\961 999999999"
+  }, {
+    "isoCountryCode" : "LBR",
+    "mask" : "+231 999999999"
+  }, {
+    "isoCountryCode" : "LBY",
+    "mask" : "+218 999999999"
+  }, {
+    "isoCountryCode" : "LCA",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "LIE",
+    "mask" : "+423 999999999"
+  }, {
+    "isoCountryCode" : "LKA",
+    "mask" : "+\\94 999999999"
+  }, {
+    "isoCountryCode" : "LSO",
+    "mask" : "+266 999999999"
+  }, {
+    "isoCountryCode" : "LTU",
+    "mask" : "+370 999999999"
+  }, {
+    "isoCountryCode" : "LUX",
+    "mask" : "+352 999999999"
+  }, {
+    "isoCountryCode" : "LVA",
+    "mask" : "+371 999999999"
+  }, {
+    "isoCountryCode" : "MAC",
+    "mask" : "+853 999999999"
+  }, {
+    "isoCountryCode" : "MAR",
+    "mask" : "+212 999999999"
+  }, {
+    "isoCountryCode" : "MCO",
+    "mask" : "+377 999999999"
+  }, {
+    "isoCountryCode" : "MDA",
+    "mask" : "+373 999999999"
+  }, {
+    "isoCountryCode" : "MDG",
+    "mask" : "+261 999999999"
+  }, {
+    "isoCountryCode" : "MDV",
+    "mask" : "+\\960 999999999"
+  }, {
+    "isoCountryCode" : "MEX",
+    "mask" : "+52 9999999999"
+  }, {
+    "isoCountryCode" : "MHL",
+    "mask" : "+6\\92 999999999"
+  }, {
+    "isoCountryCode" : "MKD",
+    "mask" : "+38\\9 999999999"
+  }, {
+    "isoCountryCode" : "MLI",
+    "mask" : "+223 999999999"
+  }, {
+    "isoCountryCode" : "MLT",
+    "mask" : "+356 999999999"
+  }, {
+    "isoCountryCode" : "MMR",
+    "mask" : "+\\95 999999999"
+  }, {
+    "isoCountryCode" : "MNG",
+    "mask" : "+\\976 999999999"
+  }, {
+    "isoCountryCode" : "MNP",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "MOZ",
+    "mask" : "+258 999999999"
+  }, {
+    "isoCountryCode" : "MRT",
+    "mask" : "+222 999999999"
+  }, {
+    "isoCountryCode" : "MSR",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "MTQ",
+    "mask" : "+5\\96 999999999"
+  }, {
+    "isoCountryCode" : "MUS",
+    "mask" : "+230 999999999"
+  }, {
+    "isoCountryCode" : "MWI",
+    "mask" : "+265 999999999"
+  }, {
+    "isoCountryCode" : "MYS",
+    "mask" : "+60 999999999"
+  }, {
+    "isoCountryCode" : "MYT",
+    "mask" : "+262 999999999"
+  }, {
+    "isoCountryCode" : "MYT",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "NAM",
+    "mask" : "+264 999999999"
+  }, {
+    "isoCountryCode" : "NCL",
+    "mask" : "+687 999999999"
+  }, {
+    "isoCountryCode" : "NER",
+    "mask" : "+227 999999999"
+  }, {
+    "isoCountryCode" : "NFK",
+    "mask" : "+672 999999999"
+  }, {
+    "isoCountryCode" : "NGA",
+    "mask" : "+234 999999999"
+  }, {
+    "isoCountryCode" : "NIC",
+    "mask" : "+505 999999999"
+  }, {
+    "isoCountryCode" : "NIU",
+    "mask" : "+683 999999999"
+  }, {
+    "isoCountryCode" : "NLD",
+    "mask" : "+31 999999999"
+  }, {
+    "isoCountryCode" : "NOR",
+    "mask" : "+47 999999999"
+  }, {
+    "isoCountryCode" : "NPL",
+    "mask" : "+\\977 999999999"
+  }, {
+    "isoCountryCode" : "NRU",
+    "mask" : "+674 999999999"
+  }, {
+    "isoCountryCode" : "NZL",
+    "mask" : "+64 999999999"
+  }, {
+    "isoCountryCode" : "OMN",
+    "mask" : "+\\968 999999999"
+  }, {
+    "isoCountryCode" : "PAK",
+    "mask" : "+\\92 999999999"
+  }, {
+    "isoCountryCode" : "PAN",
+    "mask" : "+507 999999999"
+  }, {
+    "isoCountryCode" : "PCN",
+    "mask" : "+870 999999999"
+  }, {
+    "isoCountryCode" : "PER",
+    "mask" : "+51 999999999"
+  }, {
+    "isoCountryCode" : "PHL",
+    "mask" : "+63 999999999"
+  }, {
+    "isoCountryCode" : "PLW",
+    "mask" : "+680 999999999"
+  }, {
+    "isoCountryCode" : "PNG",
+    "mask" : "+675 999999999"
+  }, {
+    "isoCountryCode" : "POL",
+    "mask" : "+48 999999999"
+  }, {
+    "isoCountryCode" : "PRI",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "PRK",
+    "mask" : "+850 999999999"
+  }, {
+    "isoCountryCode" : "PRT",
+    "mask" : "+351 999999999"
+  }, {
+    "isoCountryCode" : "PRY",
+    "mask" : "+5\\95 999999999"
+  }, {
+    "isoCountryCode" : "PYF",
+    "mask" : "+68\\9 999999999"
+  }, {
+    "isoCountryCode" : "QAT",
+    "mask" : "+\\974 999999999"
+  }, {
+    "isoCountryCode" : "REU",
+    "mask" : "+262 999999999"
+  }, {
+    "isoCountryCode" : "ROU",
+    "mask" : "+40 999999999"
+  }, {
+    "isoCountryCode" : "RUS",
+    "mask" : "+7 999999999"
+  }, {
+    "isoCountryCode" : "RWA",
+    "mask" : "+250 999999999"
+  }, {
+    "isoCountryCode" : "SAU",
+    "mask" : "+\\966 999999999"
+  }, {
+    "isoCountryCode" : "SDN",
+    "mask" : "+24\\9 999999999"
+  }, {
+    "isoCountryCode" : "SEN",
+    "mask" : "+221 999999999"
+  }, {
+    "isoCountryCode" : "SGP",
+    "mask" : "+65 999999999"
+  }, {
+    "isoCountryCode" : "SGS",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "SHN",
+    "mask" : "+2\\90 999999999"
+  }, {
+    "isoCountryCode" : "SJM",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "SLB",
+    "mask" : "+677 999999999"
+  }, {
+    "isoCountryCode" : "SLE",
+    "mask" : "+232 999999999"
+  }, {
+    "isoCountryCode" : "SLV",
+    "mask" : "+503 999999999"
+  }, {
+    "isoCountryCode" : "SMR",
+    "mask" : "+378 999999999"
+  }, {
+    "isoCountryCode" : "SOM",
+    "mask" : "+252 999999999"
+  }, {
+    "isoCountryCode" : "SPM",
+    "mask" : "+508 999999999"
+  }, {
+    "isoCountryCode" : "STP",
+    "mask" : "+23\\9 999999999"
+  }, {
+    "isoCountryCode" : "SUR",
+    "mask" : "+5\\97 999999999"
+  }, {
+    "isoCountryCode" : "SVK",
+    "mask" : "+421 999999999"
+  }, {
+    "isoCountryCode" : "SVN",
+    "mask" : "+386 999999999"
+  }, {
+    "isoCountryCode" : "SWE",
+    "mask" : "+46 999999999"
+  }, {
+    "isoCountryCode" : "SWZ",
+    "mask" : "+268 999999999"
+  }, {
+    "isoCountryCode" : "SYC",
+    "mask" : "+248 999999999"
+  }, {
+    "isoCountryCode" : "SYR",
+    "mask" : "+\\963 999999999"
+  }, {
+    "isoCountryCode" : "TCA",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "TCD",
+    "mask" : "+235 999999999"
+  }, {
+    "isoCountryCode" : "TGO",
+    "mask" : "+228 999999999"
+  }, {
+    "isoCountryCode" : "THA",
+    "mask" : "+66 999999999"
+  }, {
+    "isoCountryCode" : "TJK",
+    "mask" : "+\\9\\92 999999999"
+  }, {
+    "isoCountryCode" : "TKL",
+    "mask" : "+6\\90 999999999"
+  }, {
+    "isoCountryCode" : "TKM",
+    "mask" : "+\\9\\93 999999999"
+  }, {
+    "isoCountryCode" : "TLS",
+    "mask" : "+670 999999999"
+  }, {
+    "isoCountryCode" : "TON",
+    "mask" : "+676 999999999"
+  }, {
+    "isoCountryCode" : "TTO",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "TUN",
+    "mask" : "+216 999999999"
+  }, {
+    "isoCountryCode" : "TUR",
+    "mask" : "+\\90 9999999999"
+  }, {
+    "isoCountryCode" : "TUV",
+    "mask" : "+688 999999999"
+  }, {
+    "isoCountryCode" : "TWN",
+    "mask" : "+886 999999999"
+  }, {
+    "isoCountryCode" : "TZA",
+    "mask" : "+255 999999999"
+  }, {
+    "isoCountryCode" : "UGA",
+    "mask" : "+256 999999999"
+  }, {
+    "isoCountryCode" : "UKR",
+    "mask" : "+380 999999999"
+  }, {
+    "isoCountryCode" : "UMI",
+    "mask" : "+0 999999999"
+  }, {
+    "isoCountryCode" : "URY",
+    "mask" : "+5\\98 999999999"
+  }, {
+    "isoCountryCode" : "USA",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "UZB",
+    "mask" : "+\\9\\98 999999999"
+  }, {
+    "isoCountryCode" : "VAT",
+    "mask" : "+3\\9 999999999"
+  }, {
+    "isoCountryCode" : "VCT",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "VEN",
+    "mask" : "+58 999999999"
+  }, {
+    "isoCountryCode" : "VGB",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "VIR",
+    "mask" : "+1 (999) 999-9999"
+  }, {
+    "isoCountryCode" : "VNM",
+    "mask" : "+84 999999999"
+  }, {
+    "isoCountryCode" : "VUT",
+    "mask" : "+678 999999999"
+  }, {
+    "isoCountryCode" : "WLF",
+    "mask" : "+681 999999999"
+  }, {
+    "isoCountryCode" : "WSM",
+    "mask" : "+685 999999999"
+  }, {
+    "isoCountryCode" : "YEM",
+    "mask" : "+\\967 999999999"
+  }, {
+    "isoCountryCode" : "ZAF",
+    "mask" : "+27 999999999"
+  }, {
+    "isoCountryCode" : "ZMB",
+    "mask" : "+260 999999999"
+  }, {
+    "isoCountryCode" : "ZWE",
+    "mask" : "+263 999999999"
+  } ]
+}, {
+  "type" : "PostCode",
+  "values" : [ {
+    "isoCountryCode" : "FRA",
+    "mask" : "99999"
+  } ]
+} ]

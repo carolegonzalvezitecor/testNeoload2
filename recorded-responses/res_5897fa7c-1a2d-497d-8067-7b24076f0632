@@ -1,0 +1,1 @@
+{"extraVerbs":["DELETE","PATCH","PUT"],"blockAccess":false,"errorMsg":"Some of your network or security equipment are blocking select HTTP methods: %verbs% used in %application%. Please check with you infrastructure teams or provider about proxies, firewall, IPS equipment, logs, etc."}

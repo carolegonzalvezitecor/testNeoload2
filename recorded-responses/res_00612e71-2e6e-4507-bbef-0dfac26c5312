@@ -1,0 +1,43 @@
+/* eslint-disable angular/document-service */
+var displayMessage = function displayMessage() {
+  var browserLanguage = navigator.language || navigator.userLanguage,
+    messages = {
+      ar: ' اهلا بكم',
+      pt_BR: 'Bem-vindo',
+      bg: 'Добре дошли',
+      zh: '欢迎',
+      cs: 'Vítejte',
+      da: 'Velkommen',
+      nl: 'Welkom',
+      en: 'Welcome',
+      fr: 'Bienvenue',
+      de: 'Willkommen',
+      he: ' ברוך בואך',
+      hu: 'Üdvözlöm',
+      it: 'Benvenuto',
+      ja: 'ようこそ',
+      lv: 'Esiet sveicināti',
+      lt: 'Sveiki',
+      pl: 'Użytkownik',
+      pt: 'Bem-vindo',
+      ro: 'Bine ati venit',
+      ru: 'Добро пожаловать',
+      sk: 'Vitajte',
+      sl: 'Dobrodošli',
+      es: 'Bienvenido',
+      sv: 'Välkommen',
+      tr: 'Giriş',
+    },
+    language = browserLanguage.split('-')[0] || 'en',
+    element = window.document.getElementsByClassName('hoja');
+
+  for (var i = 0; i < element.length; i++) {
+    element[i].innerHTML = messages[language];
+
+    if (language === 'bg' || language === 'lv' || language === 'ru') {
+      element[i].className = 'hoja two-words';
+    }
+  }
+};
+
+displayMessage();

@@ -1,0 +1,3740 @@
+[ {
+  "iso2CountryCode" : "AW",
+  "legalIds" : [ {
+    "label" : "CRIB",
+    "code" : "CRIB_ABW"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ABW",
+  "label" : "Aruba",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AF",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "AFG",
+  "label" : "Afghanistan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AO",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "AGO",
+  "label" : "Angola",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AL",
+  "legalIds" : [ {
+    "label" : "TVA",
+    "code" : "VAT_ALB"
+  }, {
+    "label" : "FISCAL NUMBER",
+    "code" : "TAX_ALB"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ALB",
+  "label" : "Albania",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AD",
+  "legalIds" : [ {
+    "label" : "NO N.I.F",
+    "code" : "NIF_AND"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AND",
+  "label" : "Andorra",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AN",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "ANT",
+  "label" : "Netherlands Antilles",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_AR1"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_AR1"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_AR1"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AR1",
+  "label" : "Abu Dhabi",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_AR2"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_AR2"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_AR2"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AR2",
+  "label" : "Ajman",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_AR3"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_AR3"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_AR3"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AR3",
+  "label" : "Dubai",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_AR4"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_AR4"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_AR4"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AR4",
+  "label" : "Fujairah",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_AR5"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_AR5"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_AR5"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AR5",
+  "label" : "Ras Al Khaimah",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_AR6"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_AR6"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_AR6"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AR6",
+  "label" : "Sharjah",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_AR7"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_AR7"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_AR7"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AR7",
+  "label" : "Umm Al Quwain",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AR",
+  "legalIds" : [ {
+    "label" : "C.U.I.T.",
+    "code" : "CUIT_ARG"
+  }, {
+    "label" : "INGRESOS BRUTOS N°",
+    "code" : "TAX_ARG"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ARG",
+  "label" : "Argentina",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AM",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMER",
+    "code" : "RGN_ARM"
+  }, {
+    "label" : "INN (TVA)",
+    "code" : "VAT_ARM"
+  }, {
+    "label" : "OKPO",
+    "code" : "OKPO_ARM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ARM",
+  "label" : "Armenia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AG",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "ATG",
+  "label" : "Antigua and Barbuda",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CC;CX;HM;NF;AU",
+  "legalIds" : [ ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Cocos (Keeling) Islands",
+      "code" : "CC"
+    }, {
+      "label" : "Christmas Island",
+      "code" : "CX"
+    }, {
+      "label" : "Heard Island and McDonald Islands",
+      "code" : "HM"
+    }, {
+      "label" : "Norfolk Island",
+      "code" : "NF"
+    } ],
+    "type" : "A_AU1REG"
+  },
+  "isoCountryCode" : "AU1",
+  "label" : "Possession of Australia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AU",
+  "legalIds" : [ {
+    "label" : "ACN",
+    "code" : "ACN_AUS"
+  }, {
+    "label" : "ABN",
+    "code" : "ABN_AUS"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AUS",
+  "label" : "Australia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AT",
+  "legalIds" : [ {
+    "label" : "HANDELREGISTER NUM.",
+    "code" : "HRN_AUT"
+  }, {
+    "label" : "UID-Nummer",
+    "code" : "VAT_AUT"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AUT",
+  "label" : "Austria",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AZ",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMER",
+    "code" : "RGN_AZE"
+  }, {
+    "label" : "INN (TVA)",
+    "code" : "VAT_AZE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "AZE",
+  "label" : "Azerbaijan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BI",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "BDI",
+  "label" : "Burundi",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BE",
+  "legalIds" : [ {
+    "label" : "IDENT.FISCAL TVA/BTW",
+    "code" : "VAT_BEL"
+  }, {
+    "label" : "AMB Identifier",
+    "code" : "MBSOCNUM_BEL"
+  }, {
+    "label" : "Company Number",
+    "code" : "BCENUM_BEL"
+  }, {
+    "label" : "ONSS Identifier",
+    "code" : "ONSSNUM_BEL"
+  }, {
+    "label" : "CSB Number",
+    "code" : "NUM_BEL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BEL",
+  "label" : "Belgium",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BJ",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_BEN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BEN",
+  "label" : "Benin",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BF",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_BFA"
+  }, {
+    "label" : "FISCAL NUMBER",
+    "code" : "TAX_BFA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BFA",
+  "label" : "Burkina Faso",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BD",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMER",
+    "code" : "RGN_BGD"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BGD",
+  "label" : "Bangladesh",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BG",
+  "legalIds" : [ {
+    "label" : "TVA",
+    "code" : "VAT_BGR"
+  }, {
+    "label" : "NATIONAL ID",
+    "code" : "NI_BGR"
+  }, {
+    "label" : "FD FIRMENO DELO",
+    "code" : "FD_BGR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BGR",
+  "label" : "Bulgaria",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BH",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_BHR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BHR",
+  "label" : "Bahrain",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BS",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "BHS",
+  "label" : "Bahamas",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BA",
+  "legalIds" : [ {
+    "label" : "MR MATIONI REGISTARS",
+    "code" : "MR_BIH"
+  }, {
+    "label" : "RB REGISTARSKI BROJ",
+    "code" : "RGN_BIH"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BIH",
+  "label" : "Bosnia and Herzegovina",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BY",
+  "legalIds" : [ {
+    "label" : "UNN/NUM. OF TAXPAYER",
+    "code" : "VAT_BLR"
+  }, {
+    "label" : "EGR NUM DE REGISTRE",
+    "code" : "RGN_BLR"
+  }, {
+    "label" : "OKPO/REGISTERED NUMB",
+    "code" : "OKPO_BLR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BLR",
+  "label" : "Belarus",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BZ",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "BLZ",
+  "label" : "Belize",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BM",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "BMU",
+  "label" : "Bermuda",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BO",
+  "legalIds" : [ {
+    "label" : "N.I.T",
+    "code" : "NIT_BOL"
+  }, {
+    "label" : "R.U.C.",
+    "code" : "RUC_BOL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BOL",
+  "label" : "Bolivia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BR",
+  "legalIds" : [ {
+    "label" : "C.N.P.J.",
+    "code" : "CNPJ_BRA"
+  }, {
+    "label" : "J.U.C.E.S.P.",
+    "code" : "JUCESP_BRA"
+  }, {
+    "label" : "N.I.R.E.",
+    "code" : "NIRE_BRA"
+  }, {
+    "label" : "INDIVIDUAL REGISTRATION",
+    "code" : "CPF_BRA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BRA",
+  "label" : "Brazil",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BB",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "BRB",
+  "label" : "Barbados",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BN",
+  "legalIds" : [ {
+    "label" : "INCORPORATION NUMBER",
+    "code" : "INC_BRN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BRN",
+  "label" : "Brunei",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BT",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_BTN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BTN",
+  "label" : "Bhutan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "BW",
+  "legalIds" : [ {
+    "label" : "REG: CERTIFICATE",
+    "code" : "RGN_BWA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "BWA",
+  "label" : "Botswana",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CF",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "CAF",
+  "label" : "Central African Republic",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CA",
+  "legalIds" : [ {
+    "label" : "D-U-N-S®",
+    "code" : "DUN_CAN"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Alberta",
+      "code" : "AB"
+    }, {
+      "label" : "British Columbia",
+      "code" : "BC"
+    }, {
+      "label" : "Manitoba",
+      "code" : "MB"
+    }, {
+      "label" : "New Brunswick",
+      "code" : "NB"
+    }, {
+      "label" : "Newfoundland",
+      "code" : "NL"
+    }, {
+      "label" : "Nova Scotia",
+      "code" : "NS"
+    }, {
+      "label" : "Northwest Territories",
+      "code" : "NT"
+    }, {
+      "label" : "Nunavut",
+      "code" : "NU"
+    }, {
+      "label" : "Ontario",
+      "code" : "ON"
+    }, {
+      "label" : "Price Edward Island",
+      "code" : "PE"
+    }, {
+      "label" : "Quebec",
+      "code" : "QC"
+    }, {
+      "label" : "Saskatchewan",
+      "code" : "SK"
+    }, {
+      "label" : "Yukon Territory",
+      "code" : "YT"
+    } ],
+    "type" : "A_CANPRV"
+  },
+  "isoCountryCode" : "CAN",
+  "label" : "Canada",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CH",
+  "legalIds" : [ {
+    "label" : "Enterprise Identification Number",
+    "code" : "UID_CHE"
+  }, {
+    "label" : "Commercial Registered N°",
+    "code" : "RCS_CHE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "CHE",
+  "label" : "Switzerland",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CL",
+  "legalIds" : [ {
+    "label" : "R.U.T.",
+    "code" : "RUT_CHL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "CHL",
+  "label" : "Chile",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CN",
+  "legalIds" : [ {
+    "label" : "Unified Social Credit Code",
+    "code" : "USCC_CHN"
+  }, {
+    "label" : "STOCK CODE",
+    "code" : "STK_CHN"
+  }, {
+    "label" : "VAT NUMBER",
+    "code" : "VAT_CHN"
+  }, {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_CHN"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Beijing City",
+      "code" : "110000"
+    }, {
+      "label" : "Tianjin City",
+      "code" : "120000"
+    }, {
+      "label" : "Hebei Province",
+      "code" : "130000"
+    }, {
+      "label" : "Shanxi Province",
+      "code" : "140000"
+    }, {
+      "label" : "Inner Mongolia Autonomous Region",
+      "code" : "150000"
+    }, {
+      "label" : "Liaoning Province",
+      "code" : "210000"
+    }, {
+      "label" : "Jilin Province",
+      "code" : "220000"
+    }, {
+      "label" : "Heilongjiang Province",
+      "code" : "230000"
+    }, {
+      "label" : "Shanghai City",
+      "code" : "310000"
+    }, {
+      "label" : "Jiangsu Province",
+      "code" : "320000"
+    }, {
+      "label" : "Zhejiang Province",
+      "code" : "330000"
+    }, {
+      "label" : "Anhui Province",
+      "code" : "340000"
+    }, {
+      "label" : "Fujian Province",
+      "code" : "350000"
+    }, {
+      "label" : "Jiangxi Province",
+      "code" : "360000"
+    }, {
+      "label" : "Shandong Province",
+      "code" : "370000"
+    }, {
+      "label" : "Henan Province",
+      "code" : "410000"
+    }, {
+      "label" : "Hubei Province",
+      "code" : "420000"
+    }, {
+      "label" : "Hunan Province",
+      "code" : "430000"
+    }, {
+      "label" : "Guangdong Province",
+      "code" : "440000"
+    }, {
+      "label" : "Guangxi Zhuang Autonomous Region",
+      "code" : "450000"
+    }, {
+      "label" : "Hainan Province",
+      "code" : "460000"
+    }, {
+      "label" : "Chongqing City",
+      "code" : "500000"
+    }, {
+      "label" : "Sichuan Province",
+      "code" : "510000"
+    }, {
+      "label" : "Guizhou Province",
+      "code" : "520000"
+    }, {
+      "label" : "Yunnan Province",
+      "code" : "530000"
+    }, {
+      "label" : "Tibet Autonomous Region",
+      "code" : "540000"
+    }, {
+      "label" : "Shaanxi Province",
+      "code" : "610000"
+    }, {
+      "label" : "Gansu Province",
+      "code" : "620000"
+    }, {
+      "label" : "Qinghai Province",
+      "code" : "630000"
+    }, {
+      "label" : "Ningxia Hui Autonomous Region",
+      "code" : "640000"
+    }, {
+      "label" : "Xinjiang Uygur Autonomous Region",
+      "code" : "650000"
+    }, {
+      "label" : "Taiwan Province",
+      "code" : "710000"
+    }, {
+      "label" : "Hong Kong Special Administrative Region",
+      "code" : "810000"
+    }, {
+      "label" : "Macao Special Administrative Region",
+      "code" : "820000"
+    } ],
+    "type" : "A_CHNPRV"
+  },
+  "isoCountryCode" : "CHN",
+  "label" : "China",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CI",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_CIV"
+  }, {
+    "label" : "COMPTE CONTRIBUABLE",
+    "code" : "TAX_CIV"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "CIV",
+  "label" : "Ivory Coast",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CM",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_CMR"
+  }, {
+    "label" : "VAT number",
+    "code" : "VAT_CMR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "CMR",
+  "label" : "Cameroon",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CD",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "COD",
+  "label" : "Congo, the Democratic Republic of the",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CG",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "COG",
+  "label" : "Congo",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CK",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "COK",
+  "label" : "Cook Islands",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CO",
+  "legalIds" : [ {
+    "label" : "N.I.T.",
+    "code" : "NIT_COL"
+  }, {
+    "label" : "M.R.N.",
+    "code" : "MRN_COL"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Amazonas",
+      "code" : "AMA"
+    }, {
+      "label" : "Antioquia",
+      "code" : "ANT"
+    }, {
+      "label" : "Arauca",
+      "code" : "ARA"
+    }, {
+      "label" : "Atlántico",
+      "code" : "ATL"
+    }, {
+      "label" : "Bolívar",
+      "code" : "BOL"
+    }, {
+      "label" : "Boyacá",
+      "code" : "BOY"
+    }, {
+      "label" : "Caldas",
+      "code" : "CAL"
+    }, {
+      "label" : "Caqueta",
+      "code" : "CAQ"
+    }, {
+      "label" : "Casanare",
+      "code" : "CAS"
+    }, {
+      "label" : "Cauca",
+      "code" : "CAU"
+    }, {
+      "label" : "Cesar",
+      "code" : "CES"
+    }, {
+      "label" : "Chocó",
+      "code" : "CHO"
+    }, {
+      "label" : "Córdoba",
+      "code" : "COR"
+    }, {
+      "label" : "Cundinamarca",
+      "code" : "CUN"
+    }, {
+      "label" : "Bogota D.C",
+      "code" : "DC"
+    }, {
+      "label" : "Guainía",
+      "code" : "GUA"
+    }, {
+      "label" : "Guaviare",
+      "code" : "GUV"
+    }, {
+      "label" : "Huila",
+      "code" : "HUI"
+    }, {
+      "label" : "La Guajira",
+      "code" : "LAG"
+    }, {
+      "label" : "Magdalena",
+      "code" : "MAG"
+    }, {
+      "label" : "Meta",
+      "code" : "MET"
+    }, {
+      "label" : "Nariño",
+      "code" : "NAR"
+    }, {
+      "label" : "Norte de Santander",
+      "code" : "NSA"
+    }, {
+      "label" : "Putumayo",
+      "code" : "PUT"
+    }, {
+      "label" : "Quindío",
+      "code" : "QUI"
+    }, {
+      "label" : "Risaralda",
+      "code" : "RIS"
+    }, {
+      "label" : "Santander",
+      "code" : "SAN"
+    }, {
+      "label" : "San Andrés et Providencia",
+      "code" : "SAP"
+    }, {
+      "label" : "Sucre",
+      "code" : "SUC"
+    }, {
+      "label" : "Tolima",
+      "code" : "TOL"
+    }, {
+      "label" : "Valle del Cauca",
+      "code" : "VAC"
+    }, {
+      "label" : "Vaupés",
+      "code" : "VAU"
+    }, {
+      "label" : "Vichada",
+      "code" : "VID"
+    } ],
+    "type" : "A_COLDPT"
+  },
+  "isoCountryCode" : "COL",
+  "label" : "Colombia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KM",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "COM",
+  "label" : "Comoros",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CV",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "CPV",
+  "label" : "Cape Verde",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CR",
+  "legalIds" : [ {
+    "label" : "CEDULA JURIDICA",
+    "code" : "VAT_CRI"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "CRI",
+  "label" : "Costa Rica",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CU",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "CUB",
+  "label" : "Cuba",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CY",
+  "legalIds" : [ {
+    "label" : "REGISTERED NUMBER",
+    "code" : "RGN_CYP"
+  }, {
+    "label" : "VAT NUMBER",
+    "code" : "VAT_CYP"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "CYP",
+  "label" : "Cyprus",
+  "open" : true
+}, {
+  "iso2CountryCode" : "CZ",
+  "legalIds" : [ {
+    "label" : "DIC    N. DE TVA",
+    "code" : "VAT_CZE"
+  }, {
+    "label" : "CR CISLO REGISTRACE",
+    "code" : "RGN_CZE"
+  }, {
+    "label" : "IDENTIFIKACNI CISLO",
+    "code" : "IC_CZE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "CZE",
+  "label" : "Czech Republic",
+  "open" : true
+}, {
+  "iso2CountryCode" : "DE",
+  "legalIds" : [ {
+    "label" : "HANDELREGISTER NUM.",
+    "code" : "HRN_DEU"
+  }, {
+    "label" : "MEHRWERTSTEUER NUM.",
+    "code" : "VAT_DEU"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "DEU",
+  "label" : "Germany",
+  "open" : true
+}, {
+  "iso2CountryCode" : "DJ",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_DJI"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "DJI",
+  "label" : "Djibouti",
+  "open" : true
+}, {
+  "iso2CountryCode" : "DM",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "DMA",
+  "label" : "Dominica",
+  "open" : true
+}, {
+  "iso2CountryCode" : "FO;GL;DK",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_DN1"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Faroe Islands",
+      "code" : "FO"
+    }, {
+      "label" : "Greenland",
+      "code" : "GL"
+    } ],
+    "type" : "A_DN1REG"
+  },
+  "isoCountryCode" : "DN1",
+  "label" : "Possession of Denmark",
+  "open" : true
+}, {
+  "iso2CountryCode" : "DK",
+  "legalIds" : [ {
+    "label" : "CVR number",
+    "code" : "CVR_DNK"
+  }, {
+    "label" : "VAT NUMBER",
+    "code" : "VAT_DNK"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "DNK",
+  "label" : "Denmark",
+  "open" : true
+}, {
+  "iso2CountryCode" : "DO",
+  "legalIds" : [ {
+    "label" : "R.N.C.",
+    "code" : "RNC_DOM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "DOM",
+  "label" : "Dominican Republic",
+  "open" : true
+}, {
+  "iso2CountryCode" : "DZ",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_DZA"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_DZA"
+  }, {
+    "label" : "CODE DOUANE",
+    "code" : "CUS_DZA"
+  }, {
+    "label" : "Statistical Number",
+    "code" : "STN_DZA"
+  }, {
+    "label" : "IDENTIFIANT FISCAL",
+    "code" : "DOU_DZA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "DZA",
+  "label" : "Algeria",
+  "open" : true
+}, {
+  "iso2CountryCode" : "EC",
+  "legalIds" : [ {
+    "label" : "R.U.C.",
+    "code" : "RUC_ECU"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ECU",
+  "label" : "Ecuador",
+  "open" : true
+}, {
+  "iso2CountryCode" : "EG",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_EGY"
+  }, {
+    "label" : "VAT number",
+    "code" : "VAT_EGY"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "EGY",
+  "label" : "Egypt",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ER",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "ERI",
+  "label" : "Eritrea",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ES",
+  "legalIds" : [ {
+    "label" : "NO C.I.F",
+    "code" : "NIF_ESP"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ESP",
+  "label" : "Spain",
+  "open" : true
+}, {
+  "iso2CountryCode" : "EE",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_EST"
+  }, {
+    "label" : "VAT NUMBER",
+    "code" : "VAT_EST"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "EST",
+  "label" : "Estonia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ET",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "ETH",
+  "label" : "Ethiopia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "FI",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_FIN"
+  }, {
+    "label" : "VAT - NUMBER",
+    "code" : "VAT_FIN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "FIN",
+  "label" : "Finland",
+  "open" : true
+}, {
+  "iso2CountryCode" : "FJ",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_FJI"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "FJI",
+  "label" : "Fiji",
+  "open" : true
+}, {
+  "iso2CountryCode" : "FR",
+  "legalIds" : [ {
+    "label" : "SIREN",
+    "code" : "SIREN"
+  }, {
+    "label" : "TVA",
+    "code" : "VAT_FRA"
+  }, {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_FRA"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "01-Ain",
+      "code" : "01"
+    }, {
+      "label" : "02-Aisne",
+      "code" : "02"
+    }, {
+      "label" : "03-Allier",
+      "code" : "03"
+    }, {
+      "label" : "04-Alpes-de-Haute-Provence",
+      "code" : "04"
+    }, {
+      "label" : "05-Hautes-Alpes",
+      "code" : "05"
+    }, {
+      "label" : "06-Alpes-Maritimes",
+      "code" : "06"
+    }, {
+      "label" : "07-Ardèche",
+      "code" : "07"
+    }, {
+      "label" : "08-Ardennes",
+      "code" : "08"
+    }, {
+      "label" : "09-Ariège",
+      "code" : "09"
+    }, {
+      "label" : "10-Aube",
+      "code" : "10"
+    }, {
+      "label" : "11-Aude",
+      "code" : "11"
+    }, {
+      "label" : "12-Aveyron",
+      "code" : "12"
+    }, {
+      "label" : "13-Bouches-du-Rhône",
+      "code" : "13"
+    }, {
+      "label" : "14-Calvados",
+      "code" : "14"
+    }, {
+      "label" : "15-Cantal",
+      "code" : "15"
+    }, {
+      "label" : "16-Charente",
+      "code" : "16"
+    }, {
+      "label" : "17-Charente-Maritime",
+      "code" : "17"
+    }, {
+      "label" : "18-Cher",
+      "code" : "18"
+    }, {
+      "label" : "19-Corrèze",
+      "code" : "19"
+    }, {
+      "label" : "21-Côte-d'Or",
+      "code" : "21"
+    }, {
+      "label" : "22-Côtes-d'Armor",
+      "code" : "22"
+    }, {
+      "label" : "23-Creuse",
+      "code" : "23"
+    }, {
+      "label" : "24-Dordogne",
+      "code" : "24"
+    }, {
+      "label" : "25-Doubs",
+      "code" : "25"
+    }, {
+      "label" : "26-Drôme",
+      "code" : "26"
+    }, {
+      "label" : "27-Eure",
+      "code" : "27"
+    }, {
+      "label" : "28-Eure-et-Loir",
+      "code" : "28"
+    }, {
+      "label" : "29-Finistère",
+      "code" : "29"
+    }, {
+      "label" : "2A-Corse-du-Sud",
+      "code" : "2A"
+    }, {
+      "label" : "2B-Haute-Corse",
+      "code" : "2B"
+    }, {
+      "label" : "30-Gard",
+      "code" : "30"
+    }, {
+      "label" : "31-Haute-Garonne",
+      "code" : "31"
+    }, {
+      "label" : "32-Gers",
+      "code" : "32"
+    }, {
+      "label" : "33-Gironde",
+      "code" : "33"
+    }, {
+      "label" : "34-Hérault",
+      "code" : "34"
+    }, {
+      "label" : "35-Ille-et-Vilaine",
+      "code" : "35"
+    }, {
+      "label" : "36-Indre",
+      "code" : "36"
+    }, {
+      "label" : "37-Indre-et-Loire",
+      "code" : "37"
+    }, {
+      "label" : "38-Isère",
+      "code" : "38"
+    }, {
+      "label" : "39-Jura",
+      "code" : "39"
+    }, {
+      "label" : "40-Landes",
+      "code" : "40"
+    }, {
+      "label" : "41-Loir-et-Cher",
+      "code" : "41"
+    }, {
+      "label" : "42-Loire",
+      "code" : "42"
+    }, {
+      "label" : "43-Haute-Loire",
+      "code" : "43"
+    }, {
+      "label" : "44-Loire-Atlantique",
+      "code" : "44"
+    }, {
+      "label" : "45-Loiret",
+      "code" : "45"
+    }, {
+      "label" : "46-Lot",
+      "code" : "46"
+    }, {
+      "label" : "47-Lot-et-Garonne",
+      "code" : "47"
+    }, {
+      "label" : "48-Lozère",
+      "code" : "48"
+    }, {
+      "label" : "49-Maine-et-Loire",
+      "code" : "49"
+    }, {
+      "label" : "50-Manche",
+      "code" : "50"
+    }, {
+      "label" : "51-Marne",
+      "code" : "51"
+    }, {
+      "label" : "52-Haute-Marne",
+      "code" : "52"
+    }, {
+      "label" : "53-Mayenne",
+      "code" : "53"
+    }, {
+      "label" : "54-Meurthe-et-Moselle",
+      "code" : "54"
+    }, {
+      "label" : "55-Meuse",
+      "code" : "55"
+    }, {
+      "label" : "56-Morbihan",
+      "code" : "56"
+    }, {
+      "label" : "57-Moselle",
+      "code" : "57"
+    }, {
+      "label" : "58-Nièvre",
+      "code" : "58"
+    }, {
+      "label" : "59-Nord",
+      "code" : "59"
+    }, {
+      "label" : "60-Oise",
+      "code" : "60"
+    }, {
+      "label" : "61-Orne",
+      "code" : "61"
+    }, {
+      "label" : "62-Pas-de-Calais",
+      "code" : "62"
+    }, {
+      "label" : "63-Puy-de-Dôme",
+      "code" : "63"
+    }, {
+      "label" : "64-Pyrénées-Atlantiques",
+      "code" : "64"
+    }, {
+      "label" : "65-Hautes-Pyrénées",
+      "code" : "65"
+    }, {
+      "label" : "66-Pyrénées-Orientales",
+      "code" : "66"
+    }, {
+      "label" : "67-Bas-Rhin",
+      "code" : "67"
+    }, {
+      "label" : "68-Haut-Rhin",
+      "code" : "68"
+    }, {
+      "label" : "69-Rhône",
+      "code" : "69"
+    }, {
+      "label" : "70-Haute-Saône",
+      "code" : "70"
+    }, {
+      "label" : "71-Saône-et-Loire",
+      "code" : "71"
+    }, {
+      "label" : "72-Sarthe",
+      "code" : "72"
+    }, {
+      "label" : "73-Savoie",
+      "code" : "73"
+    }, {
+      "label" : "74-Haute-Savoie",
+      "code" : "74"
+    }, {
+      "label" : "75-Paris",
+      "code" : "75"
+    }, {
+      "label" : "76-Seine-Maritime",
+      "code" : "76"
+    }, {
+      "label" : "77-Seine-et-Marne",
+      "code" : "77"
+    }, {
+      "label" : "78-Yvelines",
+      "code" : "78"
+    }, {
+      "label" : "79-Deux-Sèvres",
+      "code" : "79"
+    }, {
+      "label" : "80-Somme",
+      "code" : "80"
+    }, {
+      "label" : "81-Tarn",
+      "code" : "81"
+    }, {
+      "label" : "82-Tarn-et-Garonne",
+      "code" : "82"
+    }, {
+      "label" : "83-Var",
+      "code" : "83"
+    }, {
+      "label" : "84-Vaucluse",
+      "code" : "84"
+    }, {
+      "label" : "85-Vendée",
+      "code" : "85"
+    }, {
+      "label" : "86-Vienne",
+      "code" : "86"
+    }, {
+      "label" : "87-Haute-Vienne",
+      "code" : "87"
+    }, {
+      "label" : "88-Vosges",
+      "code" : "88"
+    }, {
+      "label" : "89-Yonne",
+      "code" : "89"
+    }, {
+      "label" : "90-Territoire de Belfort",
+      "code" : "90"
+    }, {
+      "label" : "91-Essonne",
+      "code" : "91"
+    }, {
+      "label" : "92-Hauts-de-Seine",
+      "code" : "92"
+    }, {
+      "label" : "93-Seine-Saint-Denis",
+      "code" : "93"
+    }, {
+      "label" : "94-Val-de-Marne",
+      "code" : "94"
+    }, {
+      "label" : "95-Val-d'Oise",
+      "code" : "95"
+    }, {
+      "label" : "971-Guadeloupe",
+      "code" : "971"
+    }, {
+      "label" : "972-Martinique",
+      "code" : "972"
+    }, {
+      "label" : "973-Guyane",
+      "code" : "973"
+    }, {
+      "label" : "974-Réunion",
+      "code" : "974"
+    }, {
+      "label" : "975-Saint-Pierre-et-Miquelon",
+      "code" : "975"
+    }, {
+      "label" : "976-Mayotte",
+      "code" : "976"
+    }, {
+      "label" : "984-Terres Australes et Antarctiques",
+      "code" : "984"
+    }, {
+      "label" : "986-Wallis et Futuna",
+      "code" : "986"
+    }, {
+      "label" : "987-Polynésie Française",
+      "code" : "987"
+    }, {
+      "label" : "988-Nouvelle-Calédonie",
+      "code" : "988"
+    } ],
+    "type" : "A_FRADPT"
+  },
+  "isoCountryCode" : "FRA",
+  "label" : "France",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GA",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_GAB"
+  }, {
+    "label" : "STATISTIC NUMBER",
+    "code" : "STT_GAB"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "GAB",
+  "label" : "Gabon",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SH;GB",
+  "legalIds" : [ ],
+  "sector" : {
+    "entities" : [ ],
+    "type" : "A_GB1REG"
+  },
+  "isoCountryCode" : "GB1",
+  "label" : "Possession of G.B. in Africa",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AI;KY;FK;MS;GS;VG;GB",
+  "legalIds" : [ {
+    "label" : "Identifier",
+    "code" : "DUN_GB2"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Anguilla",
+      "code" : "AI"
+    }, {
+      "label" : "Falkland Islands (Malvinas)",
+      "code" : "FK"
+    }, {
+      "label" : "South Georgia and the South Sandwich Islands",
+      "code" : "GS"
+    }, {
+      "label" : "Cayman Islands",
+      "code" : "KY"
+    }, {
+      "label" : "Montserrat",
+      "code" : "MS"
+    }, {
+      "label" : "Virgin Islands, British",
+      "code" : "VG"
+    } ],
+    "type" : "A_GB2REG"
+  },
+  "isoCountryCode" : "GB2",
+  "label" : "Possession of G.B. in America",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GB",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_GBR"
+  }, {
+    "label" : "VAT Registration No.",
+    "code" : "VAT_GBR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "GBR",
+  "label" : "United Kingdom",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GE",
+  "legalIds" : [ {
+    "label" : "INN TVA",
+    "code" : "VAT_GEO"
+  }, {
+    "label" : "OKPO",
+    "code" : "OKPO_GEO"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "GEO",
+  "label" : "Georgia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GH",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_GHA"
+  }, {
+    "label" : "Tax Identification Number",
+    "code" : "TIN_GHA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "GHA",
+  "label" : "Ghana",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GI",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "GIB",
+  "label" : "Gibraltar",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GN",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "GIN",
+  "label" : "Guinea",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GM",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "GMB",
+  "label" : "Gambia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GW",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "GNB",
+  "label" : "Guinea-Bissau",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GQ",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "GNQ",
+  "label" : "Equatorial Guinea",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GR",
+  "legalIds" : [ {
+    "label" : "TVA/AFM",
+    "code" : "VAT_GRC"
+  }, {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_GRC"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "GRC",
+  "label" : "Greece",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GD",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "GRD",
+  "label" : "Grenada",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GT",
+  "legalIds" : [ {
+    "label" : "N.I.T.",
+    "code" : "NIT_GTM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "GTM",
+  "label" : "Guatemala",
+  "open" : true
+}, {
+  "iso2CountryCode" : "GY",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "GUY",
+  "label" : "Guyana",
+  "open" : true
+}, {
+  "iso2CountryCode" : "HK",
+  "legalIds" : [ {
+    "label" : "COMPANY REG NUMBER",
+    "code" : "CRGN_HKG"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "HKG",
+  "label" : "Hong Kong, S.A.R",
+  "open" : true
+}, {
+  "iso2CountryCode" : "HN",
+  "legalIds" : [ {
+    "label" : "R.T.N.",
+    "code" : "RTN_HND"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "HND",
+  "label" : "Honduras",
+  "open" : true
+}, {
+  "iso2CountryCode" : "HR",
+  "legalIds" : [ {
+    "label" : "MBSTS (REG NUMBER)",
+    "code" : "RGN_HRV"
+  }, {
+    "label" : "MB / PB",
+    "code" : "MBPB_HRV"
+  }, {
+    "label" : "BZS (TVA)",
+    "code" : "VAT_HRV"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "HRV",
+  "label" : "Croatia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "HT",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "HTI",
+  "label" : "Haiti",
+  "open" : true
+}, {
+  "iso2CountryCode" : "HU",
+  "legalIds" : [ {
+    "label" : "BEJEGYZESI SZAM",
+    "code" : "BEJ_HUN"
+  }, {
+    "label" : "A ADOSZAM (TVA)",
+    "code" : "VAT_HUN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "HUN",
+  "label" : "Hungary",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ID",
+  "legalIds" : [ {
+    "label" : "TDP CY REGISTRATION",
+    "code" : "RCS_IDN"
+  }, {
+    "label" : "LEGALIZATION NUMBER",
+    "code" : "LGL_IDN"
+  }, {
+    "label" : "NPWP TAX REGISTRATION",
+    "code" : "TAX_IDN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "IDN",
+  "label" : "Indonesia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IN",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_IND"
+  }, {
+    "label" : "GSTN",
+    "code" : "GST_IND"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "IND",
+  "label" : "India",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IO",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "IOT",
+  "label" : "British Indian Ocean Territory",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IE",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_IRL"
+  }, {
+    "label" : "VAT REGISTRATION NO",
+    "code" : "VAT_IRL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "IRL",
+  "label" : "Ireland",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IR",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NBR.",
+    "code" : "RGN_IRN"
+  }, {
+    "label" : "NATIONAL ID NBR",
+    "code" : "NID_IRN"
+  }, {
+    "label" : "TAX REGISTRATION NBR",
+    "code" : "VAT_IRN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "IRN",
+  "label" : "Iran",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IQ",
+  "legalIds" : [ {
+    "label" : "Registration number",
+    "code" : "RGN_IRQ"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "IRQ",
+  "label" : "Iraq",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IS",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_ISL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ISL",
+  "label" : "Iceland",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IL",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_ISR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ISR",
+  "label" : "Israel",
+  "open" : true
+}, {
+  "iso2CountryCode" : "IT",
+  "legalIds" : [ {
+    "label" : "CODICE FISCALE",
+    "code" : "TAX_ITA"
+  }, {
+    "label" : "C.C.I.A.A.",
+    "code" : "CCIAA_ITA"
+  }, {
+    "label" : "TVA/N'IVA",
+    "code" : "VAT_ITA"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Agrigento",
+      "code" : "AG"
+    }, {
+      "label" : "Alessandria",
+      "code" : "AL"
+    }, {
+      "label" : "Ancona",
+      "code" : "AN"
+    }, {
+      "label" : "Aosta",
+      "code" : "AO"
+    }, {
+      "label" : "Ascoli Piceno",
+      "code" : "AP"
+    }, {
+      "label" : "L'Aquila",
+      "code" : "AQ"
+    }, {
+      "label" : "Arezzo",
+      "code" : "AR"
+    }, {
+      "label" : "Asti",
+      "code" : "AT"
+    }, {
+      "label" : "Avellino",
+      "code" : "AV"
+    }, {
+      "label" : "Bari",
+      "code" : "BA"
+    }, {
+      "label" : "Bergamo",
+      "code" : "BG"
+    }, {
+      "label" : "Biella",
+      "code" : "BI"
+    }, {
+      "label" : "Belluno",
+      "code" : "BL"
+    }, {
+      "label" : "Benevento",
+      "code" : "BN"
+    }, {
+      "label" : "Bologna",
+      "code" : "BO"
+    }, {
+      "label" : "Brindisi",
+      "code" : "BR"
+    }, {
+      "label" : "Brescia",
+      "code" : "BS"
+    }, {
+      "label" : "Barletta-Andria-Trani",
+      "code" : "BT"
+    }, {
+      "label" : "Bolzano",
+      "code" : "BZ"
+    }, {
+      "label" : "Cagliari",
+      "code" : "CA"
+    }, {
+      "label" : "Campobasso",
+      "code" : "CB"
+    }, {
+      "label" : "Caserta",
+      "code" : "CE"
+    }, {
+      "label" : "Chieti",
+      "code" : "CH"
+    }, {
+      "label" : "Carbonia-Iglesias",
+      "code" : "CI"
+    }, {
+      "label" : "Caltanissetta",
+      "code" : "CL"
+    }, {
+      "label" : "Cuneo",
+      "code" : "CN"
+    }, {
+      "label" : "Como",
+      "code" : "CO"
+    }, {
+      "label" : "Cremona",
+      "code" : "CR"
+    }, {
+      "label" : "Cosenza",
+      "code" : "CS"
+    }, {
+      "label" : "Catania",
+      "code" : "CT"
+    }, {
+      "label" : "Catanzaro",
+      "code" : "CZ"
+    }, {
+      "label" : "Enna",
+      "code" : "EN"
+    }, {
+      "label" : "Forlì-Cesena",
+      "code" : "FC"
+    }, {
+      "label" : "Ferrara",
+      "code" : "FE"
+    }, {
+      "label" : "Foggia",
+      "code" : "FG"
+    }, {
+      "label" : "Firenze",
+      "code" : "FI"
+    }, {
+      "label" : "Fermo",
+      "code" : "FM"
+    }, {
+      "label" : "Frosinone",
+      "code" : "FR"
+    }, {
+      "label" : "Genova",
+      "code" : "GE"
+    }, {
+      "label" : "Gorizia",
+      "code" : "GO"
+    }, {
+      "label" : "Grosseto",
+      "code" : "GR"
+    }, {
+      "label" : "Imperia",
+      "code" : "IM"
+    }, {
+      "label" : "Isernia",
+      "code" : "IS"
+    }, {
+      "label" : "Crotone",
+      "code" : "KR"
+    }, {
+      "label" : "Lecco",
+      "code" : "LC"
+    }, {
+      "label" : "Lecce",
+      "code" : "LE"
+    }, {
+      "label" : "Livorno",
+      "code" : "LI"
+    }, {
+      "label" : "Lodi",
+      "code" : "LO"
+    }, {
+      "label" : "Latina",
+      "code" : "LT"
+    }, {
+      "label" : "Lucca",
+      "code" : "LU"
+    }, {
+      "label" : "Monza e Brianza",
+      "code" : "MB"
+    }, {
+      "label" : "Macerata",
+      "code" : "MC"
+    }, {
+      "label" : "Messina",
+      "code" : "ME"
+    }, {
+      "label" : "Milano",
+      "code" : "MI"
+    }, {
+      "label" : "Mantova",
+      "code" : "MN"
+    }, {
+      "label" : "Modena",
+      "code" : "MO"
+    }, {
+      "label" : "Massa-Carrara",
+      "code" : "MS"
+    }, {
+      "label" : "Matera",
+      "code" : "MT"
+    }, {
+      "label" : "Napoli",
+      "code" : "NA"
+    }, {
+      "label" : "Novara",
+      "code" : "NO"
+    }, {
+      "label" : "Nuoro",
+      "code" : "NU"
+    }, {
+      "label" : "Ogliastra",
+      "code" : "OG"
+    }, {
+      "label" : "Oristano",
+      "code" : "OR"
+    }, {
+      "label" : "Olbia-Tempio",
+      "code" : "OT"
+    }, {
+      "label" : "Palermo",
+      "code" : "PA"
+    }, {
+      "label" : "Piacenza",
+      "code" : "PC"
+    }, {
+      "label" : "Padova",
+      "code" : "PD"
+    }, {
+      "label" : "Pescara",
+      "code" : "PE"
+    }, {
+      "label" : "Perugia",
+      "code" : "PG"
+    }, {
+      "label" : "Pisa",
+      "code" : "PI"
+    }, {
+      "label" : "Pordenone",
+      "code" : "PN"
+    }, {
+      "label" : "Prato",
+      "code" : "PO"
+    }, {
+      "label" : "Parma",
+      "code" : "PR"
+    }, {
+      "label" : "Pistoia",
+      "code" : "PT"
+    }, {
+      "label" : "Pesaro e Urbino",
+      "code" : "PU"
+    }, {
+      "label" : "Pavia",
+      "code" : "PV"
+    }, {
+      "label" : "Potenza",
+      "code" : "PZ"
+    }, {
+      "label" : "Ravenna",
+      "code" : "RA"
+    }, {
+      "label" : "Reggio di Calabria",
+      "code" : "RC"
+    }, {
+      "label" : "Reggio Emilia",
+      "code" : "RE"
+    }, {
+      "label" : "Ragusa",
+      "code" : "RG"
+    }, {
+      "label" : "Rieti",
+      "code" : "RI"
+    }, {
+      "label" : "Roma",
+      "code" : "RM"
+    }, {
+      "label" : "Rimini",
+      "code" : "RN"
+    }, {
+      "label" : "Rovigo",
+      "code" : "RO"
+    }, {
+      "label" : "Salerno",
+      "code" : "SA"
+    }, {
+      "label" : "Siena",
+      "code" : "SI"
+    }, {
+      "label" : "Sondrio",
+      "code" : "SO"
+    }, {
+      "label" : "La Spezia",
+      "code" : "SP"
+    }, {
+      "label" : "Siracusa",
+      "code" : "SR"
+    }, {
+      "label" : "Sassari",
+      "code" : "SS"
+    }, {
+      "label" : "Savona",
+      "code" : "SV"
+    }, {
+      "label" : "Taranto",
+      "code" : "TA"
+    }, {
+      "label" : "Teramo",
+      "code" : "TE"
+    }, {
+      "label" : "Trento",
+      "code" : "TN"
+    }, {
+      "label" : "Torino",
+      "code" : "TO"
+    }, {
+      "label" : "Trapani",
+      "code" : "TP"
+    }, {
+      "label" : "Terni",
+      "code" : "TR"
+    }, {
+      "label" : "Trieste",
+      "code" : "TS"
+    }, {
+      "label" : "Treviso",
+      "code" : "TV"
+    }, {
+      "label" : "Udine",
+      "code" : "UD"
+    }, {
+      "label" : "Varese",
+      "code" : "VA"
+    }, {
+      "label" : "Verbano-Cusio-Ossola",
+      "code" : "VB"
+    }, {
+      "label" : "Vercelli",
+      "code" : "VC"
+    }, {
+      "label" : "Venezia",
+      "code" : "VE"
+    }, {
+      "label" : "Vicenza",
+      "code" : "VI"
+    }, {
+      "label" : "Verona",
+      "code" : "VR"
+    }, {
+      "label" : "Medio Campidano",
+      "code" : "VS"
+    }, {
+      "label" : "Viterbo",
+      "code" : "VT"
+    }, {
+      "label" : "Vibo Valentia",
+      "code" : "VV"
+    } ],
+    "type" : "A_ITAPRV"
+  },
+  "isoCountryCode" : "ITA",
+  "label" : "Italy",
+  "open" : true
+}, {
+  "iso2CountryCode" : "JM",
+  "legalIds" : [ {
+    "label" : "T.R.N.",
+    "code" : "TRN_JAM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "JAM",
+  "label" : "Jamaica",
+  "open" : true
+}, {
+  "iso2CountryCode" : "JO",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_JOR"
+  }, {
+    "label" : "National ID",
+    "code" : "NID_JOR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "JOR",
+  "label" : "Jordan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "JP",
+  "legalIds" : [ {
+    "label" : "Corporate REG. NO.",
+    "code" : "CRP_JPN"
+  }, {
+    "label" : "TEIKOKU NUMBER",
+    "code" : "TEIK_NUM"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "01 Hokkaido",
+      "code" : "JP-01"
+    }, {
+      "label" : "02 Aomori",
+      "code" : "JP-02"
+    }, {
+      "label" : "03 Iwate",
+      "code" : "JP-03"
+    }, {
+      "label" : "04 Miyagi",
+      "code" : "JP-04"
+    }, {
+      "label" : "05 Akita",
+      "code" : "JP-05"
+    }, {
+      "label" : "06 Yamagata",
+      "code" : "JP-06"
+    }, {
+      "label" : "07 Fukusima",
+      "code" : "JP-07"
+    }, {
+      "label" : "08 Igaragi",
+      "code" : "JP-08"
+    }, {
+      "label" : "09 Tochigi",
+      "code" : "JP-09"
+    }, {
+      "label" : "10 Gunma",
+      "code" : "JP-10"
+    }, {
+      "label" : "11 Saitama",
+      "code" : "JP-11"
+    }, {
+      "label" : "12 Chiba",
+      "code" : "JP-12"
+    }, {
+      "label" : "13 Tokyo",
+      "code" : "JP-13"
+    }, {
+      "label" : "14 Kanagawa",
+      "code" : "JP-14"
+    }, {
+      "label" : "15 Niigata",
+      "code" : "JP-15"
+    }, {
+      "label" : "16 Toyama",
+      "code" : "JP-16"
+    }, {
+      "label" : "17 Ishikawa",
+      "code" : "JP-17"
+    }, {
+      "label" : "18 Fukui",
+      "code" : "JP-18"
+    }, {
+      "label" : "19 Yamanashi",
+      "code" : "JP-19"
+    }, {
+      "label" : "20 Nagano",
+      "code" : "JP-20"
+    }, {
+      "label" : "21 Gifu",
+      "code" : "JP-21"
+    }, {
+      "label" : "22 Shizuoka",
+      "code" : "JP-22"
+    }, {
+      "label" : "23 Aichi",
+      "code" : "JP-23"
+    }, {
+      "label" : "24 Mie",
+      "code" : "JP-24"
+    }, {
+      "label" : "25 Shiga",
+      "code" : "JP-25"
+    }, {
+      "label" : "26 Kyoto",
+      "code" : "JP-26"
+    }, {
+      "label" : "27 Osaka",
+      "code" : "JP-27"
+    }, {
+      "label" : "28 Hyogo",
+      "code" : "JP-28"
+    }, {
+      "label" : "29 Nara",
+      "code" : "JP-29"
+    }, {
+      "label" : "30 Wakayama",
+      "code" : "JP-30"
+    }, {
+      "label" : "31 Tottori",
+      "code" : "JP-31"
+    }, {
+      "label" : "32 Shimane",
+      "code" : "JP-32"
+    }, {
+      "label" : "33 Okayama",
+      "code" : "JP-33"
+    }, {
+      "label" : "34 Hiroshima",
+      "code" : "JP-34"
+    }, {
+      "label" : "35 Yamaguchi",
+      "code" : "JP-35"
+    }, {
+      "label" : "36 Tokushima",
+      "code" : "JP-36"
+    }, {
+      "label" : "37 Kagawa",
+      "code" : "JP-37"
+    }, {
+      "label" : "38 Ehime",
+      "code" : "JP-38"
+    }, {
+      "label" : "39 Kochi",
+      "code" : "JP-39"
+    }, {
+      "label" : "40 Fukuoka",
+      "code" : "JP-40"
+    }, {
+      "label" : "41 Saga",
+      "code" : "JP-41"
+    }, {
+      "label" : "42 Nagasaki",
+      "code" : "JP-42"
+    }, {
+      "label" : "43 Kumamoto",
+      "code" : "JP-43"
+    }, {
+      "label" : "44 Oita",
+      "code" : "JP-44"
+    }, {
+      "label" : "45 Miyazaki",
+      "code" : "JP-45"
+    }, {
+      "label" : "46 Kagoshima",
+      "code" : "JP-46"
+    }, {
+      "label" : "47 Okinawa",
+      "code" : "JP-47"
+    } ],
+    "type" : "A_JPNREG"
+  },
+  "isoCountryCode" : "JPN",
+  "label" : "Japan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KZ",
+  "legalIds" : [ {
+    "label" : "BIN (Business Identification Number)",
+    "code" : "RGN_KAZ"
+  }, {
+    "label" : "Fiscal ID (RNN)",
+    "code" : "VAT_KAZ"
+  }, {
+    "label" : "Statistic ID (OKPO)",
+    "code" : "OKPO_KAZ"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "KAZ",
+  "label" : "Kazakhstan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_KEN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "KEN",
+  "label" : "Kenya",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KG",
+  "legalIds" : [ {
+    "label" : "INN (TVA)",
+    "code" : "VAT_KGZ"
+  }, {
+    "label" : "OKPO",
+    "code" : "OKPO_KGZ"
+  }, {
+    "label" : "RC (REG NUMBER)",
+    "code" : "RGN_KGZ"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "KGZ",
+  "label" : "Kyrgyzstan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KH",
+  "legalIds" : [ {
+    "label" : "INCORPORATION NUMBER",
+    "code" : "INC_KHM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "KHM",
+  "label" : "Cambodia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KI",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "KIR",
+  "label" : "Kiribati",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KN",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "KNA",
+  "label" : "Saint Kitts and Nevis",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KR",
+  "legalIds" : [ {
+    "label" : "BUSINESS REG. NO.",
+    "code" : "RCS_KOR"
+  }, {
+    "label" : "CORPORATE REG. NO.",
+    "code" : "CRP_KOR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "KOR",
+  "label" : "South Korea",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KV",
+  "legalIds" : [ {
+    "label" : "MBSTS (REG NUMBER)",
+    "code" : "RGN_KSV"
+  }, {
+    "label" : "BZS (TVA)",
+    "code" : "VAT_KSV"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "KSV",
+  "label" : "Kosovo",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KW",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_KWT"
+  }, {
+    "label" : "Kuwait Chamber",
+    "code" : "CCI_KWT"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "KWT",
+  "label" : "Kuwait",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LA",
+  "legalIds" : [ {
+    "label" : "Incorporation number",
+    "code" : "INC_LAO"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LAO",
+  "label" : "Lao",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LB",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_LBN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LBN",
+  "label" : "Lebanon",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LR",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "LBR",
+  "label" : "Liberia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LY",
+  "legalIds" : [ {
+    "label" : "Registration number",
+    "code" : "RGN_LBY"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LBY",
+  "label" : "Libya",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LC",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "LCA",
+  "label" : "Saint Lucia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LI",
+  "legalIds" : [ {
+    "label" : "FL-number",
+    "code" : "RCS_LIE"
+  }, {
+    "label" : "IDENTIFIANT TVA",
+    "code" : "VAT_LIE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LIE",
+  "label" : "Liechtenstein",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LK",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_LKA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LKA",
+  "label" : "Sri Lanka",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LS",
+  "legalIds" : [ {
+    "label" : "REGISTRATION CERTIFICATE",
+    "code" : "RGN_LSO"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LSO",
+  "label" : "Lesotho",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LT",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_LTU"
+  }, {
+    "label" : "VAT NUMBER",
+    "code" : "VAT_LTU"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LTU",
+  "label" : "Lithuania",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LU",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_LUX"
+  }, {
+    "label" : "NUMERO DE TVA",
+    "code" : "VAT_LUX"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LUX",
+  "label" : "Luxembourg",
+  "open" : true
+}, {
+  "iso2CountryCode" : "LV",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_LVA"
+  }, {
+    "label" : "VAT NUMBER",
+    "code" : "VAT_LVA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "LVA",
+  "label" : "Latvia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MO",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_MAC"
+  }, {
+    "label" : "INCORPORATION NUMBER",
+    "code" : "INC_MAC"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MAC",
+  "label" : "Macao",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MA",
+  "legalIds" : [ {
+    "label" : "ICE",
+    "code" : "ICE_MAR"
+  }, {
+    "label" : "CODE TVA",
+    "code" : "TVA_MAR"
+  }, {
+    "label" : "NO PATENTE",
+    "code" : "RGN_MAR"
+  }, {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_MAR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MAR",
+  "label" : "Morocco",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MC",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_MCO"
+  }, {
+    "label" : "S.S.E.E.",
+    "code" : "SSEE_MCO"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MCO",
+  "label" : "Monaco",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MD",
+  "legalIds" : [ {
+    "label" : "FISCAL (TVA)",
+    "code" : "VAT_MDA"
+  }, {
+    "label" : "RC (REG. NUMBER)",
+    "code" : "RGN_MDA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MDA",
+  "label" : "Moldova",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MG",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_MDG"
+  }, {
+    "label" : "STATISTIC NUMBER",
+    "code" : "STT_MDG"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MDG",
+  "label" : "Madagascar",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MV",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "MDV",
+  "label" : "Maldives",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MX",
+  "legalIds" : [ {
+    "label" : "R.F.C.",
+    "code" : "RFC_MEX"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MEX",
+  "label" : "Mexico",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MH",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_MHL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MHL",
+  "label" : "Marshall Islands",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MK",
+  "legalIds" : [ {
+    "label" : "FISCAL (TVA)",
+    "code" : "VAT_MKD"
+  }, {
+    "label" : "REGISTER NUMBER",
+    "code" : "RGN_MKD"
+  }, {
+    "label" : "MATICHEN NO",
+    "code" : "MATN_MKD"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MKD",
+  "label" : "Macedonia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ML",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_MLI"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MLI",
+  "label" : "Mali",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MT",
+  "legalIds" : [ {
+    "label" : "COMPANY REG. NO.",
+    "code" : "RGN_MLT"
+  }, {
+    "label" : "VAT NUMBER",
+    "code" : "VAT_MLT"
+  }, {
+    "label" : "Trade License Number",
+    "code" : "TLN_MLT"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MLT",
+  "label" : "Malta",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MM",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_MMR"
+  }, {
+    "label" : "INCORPORATION NUMBER",
+    "code" : "INC_MMR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MMR",
+  "label" : "Myanmar",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ME",
+  "legalIds" : [ {
+    "label" : "MBSTS (REG. NUMBER)",
+    "code" : "RGN_MNE"
+  }, {
+    "label" : "NATIONAL ID",
+    "code" : "NI_MNE"
+  }, {
+    "label" : "MB/PB/BZS (TVA)",
+    "code" : "VAT_MNE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MNE",
+  "label" : "Montenegro",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MN",
+  "legalIds" : [ {
+    "label" : "INCORPORATION NUMBER",
+    "code" : "INC_MNG"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MNG",
+  "label" : "Mongolia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MZ",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "MOZ",
+  "label" : "Mozambique",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MR",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_MRT"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MRT",
+  "label" : "Mauritania",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MU",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_MUS"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MUS",
+  "label" : "Mauritius",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MW",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "MWI",
+  "label" : "Malawi",
+  "open" : true
+}, {
+  "iso2CountryCode" : "MY",
+  "legalIds" : [ {
+    "label" : "NEW ROC NUMBER",
+    "code" : "ROC2_MYS"
+  }, {
+    "label" : "ROC NUMBER",
+    "code" : "ROC_MYS"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "MYS",
+  "label" : "Malaysia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NA",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_NAM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NAM",
+  "label" : "Namibia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NC",
+  "legalIds" : [ {
+    "label" : "SIREN",
+    "code" : "SIREN_NCL"
+  }, {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_NCL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NCL",
+  "label" : "New Caledonia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NE",
+  "legalIds" : [ {
+    "label" : "NO TRANSLATION (CVCompanyIdentifiers.RCS_NER)",
+    "code" : "RCS_NER"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NER",
+  "label" : "Niger",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NG",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "NGA",
+  "label" : "Nigeria",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NI",
+  "legalIds" : [ {
+    "label" : "R.U.C.",
+    "code" : "RUC_NIC"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NIC",
+  "label" : "Nicaragua",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NL",
+  "legalIds" : [ {
+    "label" : "KVK HANDELSREGISTER",
+    "code" : "HRN_NLD"
+  }, {
+    "label" : "BTW Nummer",
+    "code" : "VAT_NLD"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NLD",
+  "label" : "Netherlands",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NO",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_NOR"
+  }, {
+    "label" : "VAT",
+    "code" : "VAT_NOR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NOR",
+  "label" : "Norway",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NP",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_NPL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NPL",
+  "label" : "Nepal",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NR",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "NRU",
+  "label" : "Nauru",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NU;TK;NZ",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_NZ1"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Niue",
+      "code" : "NU"
+    }, {
+      "label" : "Tokelau",
+      "code" : "TK"
+    } ],
+    "type" : "A_NZ1REG"
+  },
+  "isoCountryCode" : "NZ1",
+  "label" : "Possession of New Zealand",
+  "open" : true
+}, {
+  "iso2CountryCode" : "NZ",
+  "legalIds" : [ {
+    "label" : "Registration number",
+    "code" : "RGN_NZL"
+  }, {
+    "label" : "Business number",
+    "code" : "NZBN_NZL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "NZL",
+  "label" : "New Zealand",
+  "open" : true
+}, {
+  "iso2CountryCode" : "OM",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_OMN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "OMN",
+  "label" : "Oman",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PK",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_PAK"
+  }, {
+    "label" : "SERIAL NUMBER",
+    "code" : "SER_PAK"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "PAK",
+  "label" : "Pakistan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PA",
+  "legalIds" : [ {
+    "label" : "R.U.C.",
+    "code" : "RUC_PAN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "PAN",
+  "label" : "Panama",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PE",
+  "legalIds" : [ {
+    "label" : "R.U.C.",
+    "code" : "RUC_PER"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "PER",
+  "label" : "Peru",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PH",
+  "legalIds" : [ {
+    "label" : "REGISTRE S.E.C NV",
+    "code" : "SECNV_PHL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "PHL",
+  "label" : "Philippines",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PG",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "PNG",
+  "label" : "Papua New Guinea",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PL",
+  "legalIds" : [ {
+    "label" : "NIP NUM PLATNIKA VAT",
+    "code" : "VAT_POL"
+  }, {
+    "label" : "STATISTIC NUMBER",
+    "code" : "STAT_POL"
+  }, {
+    "label" : "RHB/KRS",
+    "code" : "RHB_POL"
+  }, {
+    "label" : "NATIONAL ID",
+    "code" : "NI_POL"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "POL",
+  "label" : "Poland",
+  "open" : true
+}, {
+  "iso2CountryCode" : "KP",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "PRK",
+  "label" : "North Korea",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PT",
+  "legalIds" : [ {
+    "label" : "N. CONTRIBUINTE",
+    "code" : "TAX_PRT"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "PRT",
+  "label" : "Portugal",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PY",
+  "legalIds" : [ {
+    "label" : "R.U.C.",
+    "code" : "RUC_PRY"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "PRY",
+  "label" : "Paraguay",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PS",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_PSE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "PSE",
+  "label" : "Palestine",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PF",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "PYF",
+  "label" : "French Polynesia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "QA",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_QAT"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "QAT",
+  "label" : "Qatar",
+  "open" : true
+}, {
+  "iso2CountryCode" : "RO",
+  "legalIds" : [ {
+    "label" : "NI (REG. NUMBER)",
+    "code" : "RGN_ROU"
+  }, {
+    "label" : "CF (TVA)",
+    "code" : "VAT_ROU"
+  }, {
+    "label" : "European VAT",
+    "code" : "TAX_ROU"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ROU",
+  "label" : "Romania",
+  "open" : true
+}, {
+  "iso2CountryCode" : "RU",
+  "legalIds" : [ {
+    "label" : "INN (TVA)",
+    "code" : "VAT_RUS"
+  }, {
+    "label" : "O.G.R.N.",
+    "code" : "RRK_RUS"
+  }, {
+    "label" : "OKPO",
+    "code" : "OKPO_RUS"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "RUS",
+  "label" : "Russian Federation",
+  "open" : true
+}, {
+  "iso2CountryCode" : "RW",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "RWA",
+  "label" : "Rwanda",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SA",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_SAU"
+  }, {
+    "label" : "VAT Number",
+    "code" : "VAT_SAU"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SAU",
+  "label" : "Saudi Arabia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SD",
+  "legalIds" : [ {
+    "label" : "Registration number",
+    "code" : "RGN_SDN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SDN",
+  "label" : "Sudan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SN",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_SEN"
+  }, {
+    "label" : "COMPTE CONTRIBUABLE",
+    "code" : "TAX_SEN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SEN",
+  "label" : "Senegal",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SG",
+  "legalIds" : [ {
+    "label" : "ROC NUMBER",
+    "code" : "ROC_SGP"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SGP",
+  "label" : "Singapore",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SB",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "SLB",
+  "label" : "Solomon Islands",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SL",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "SLE",
+  "label" : "Sierra Leone",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SV",
+  "legalIds" : [ {
+    "label" : "N.I.T.",
+    "code" : "NIT_SLV"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SLV",
+  "label" : "El Salvador",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SM",
+  "legalIds" : [ {
+    "label" : "CODICE FISCALE",
+    "code" : "TAX_SMR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SMR",
+  "label" : "San Marino",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SO",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "SOM",
+  "label" : "Somalia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "RS",
+  "legalIds" : [ {
+    "label" : "MBSTS (REG. NUMBER)",
+    "code" : "RGN_SRB"
+  }, {
+    "label" : "MB/PB/BZS (TVA)",
+    "code" : "VAT_SRB"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SRB",
+  "label" : "Serbia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SS",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "SSD",
+  "label" : "Republic of South Sudan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ST",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "STP",
+  "label" : "Sao Tome and Principe",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SR",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "SUR",
+  "label" : "Suriname",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SK",
+  "legalIds" : [ {
+    "label" : "IO",
+    "code" : "IO_SVK"
+  }, {
+    "label" : "IR ISLO REGISTACIE",
+    "code" : "IR_SVK"
+  }, {
+    "label" : "VAT",
+    "code" : "VAT_SVK"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SVK",
+  "label" : "Slovakia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SI",
+  "legalIds" : [ {
+    "label" : "MS NATIONAL ID",
+    "code" : "MSNI_SVN"
+  }, {
+    "label" : "DS N. DE TVA",
+    "code" : "VAT_SVN"
+  }, {
+    "label" : "TAX NUMBER",
+    "code" : "TAX_SVN"
+  }, {
+    "label" : "RS REG. DU COMMERCE",
+    "code" : "RCS_SVN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SVN",
+  "label" : "Slovenia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SE",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_SWE"
+  }, {
+    "label" : "VAT - NUMBER",
+    "code" : "VAT_SWE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SWE",
+  "label" : "Sweden",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SZ",
+  "legalIds" : [ {
+    "label" : "REG : CERTIFICATE",
+    "code" : "RGN_SWZ"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SWZ",
+  "label" : "Swaziland",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SC",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_SYC"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SYC",
+  "label" : "Seychelles",
+  "open" : true
+}, {
+  "iso2CountryCode" : "SY",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_SYR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "SYR",
+  "label" : "Syria",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TC",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "TCA",
+  "label" : "Turks and Caicos Islands",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TD",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_TCD"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TCD",
+  "label" : "Chad",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TG",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_TGO"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TGO",
+  "label" : "Togo",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TH",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_THA"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "THA",
+  "label" : "Thailand",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TJ",
+  "legalIds" : [ {
+    "label" : "INN (TVA)",
+    "code" : "VAT_TJK"
+  }, {
+    "label" : "OKPO",
+    "code" : "OKPO_TJK"
+  }, {
+    "label" : "RC (REG. NUMBER)",
+    "code" : "RGN_TJK"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TJK",
+  "label" : "Tajikistan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TM",
+  "legalIds" : [ {
+    "label" : "INN (TVA)",
+    "code" : "VAT_TKM"
+  }, {
+    "label" : "OKPO",
+    "code" : "OKPO_TKM"
+  }, {
+    "label" : "RC (REG. NUMBER)",
+    "code" : "RGN_TKM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TKM",
+  "label" : "Turkmenistan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TL",
+  "legalIds" : [ {
+    "label" : "TDP CY REGISTRATION",
+    "code" : "RGN_TLS"
+  }, {
+    "label" : "LEGALIZATION NUMBER",
+    "code" : "LDL_TLS"
+  }, {
+    "label" : "NPWP TAX REGISTRATIO",
+    "code" : "RCS_TLS"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TLS",
+  "label" : "Timor-Leste (Dem. Rep. of)",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TO",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "TON",
+  "label" : "Tonga",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TT",
+  "legalIds" : [ {
+    "label" : "B.I.R.",
+    "code" : "BIR_TTO"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TTO",
+  "label" : "Trinidad and Tobago",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TN",
+  "legalIds" : [ {
+    "label" : "UNIQUE IDENTIFIER",
+    "code" : "TBC_TUN"
+  }, {
+    "label" : "Tax Number",
+    "code" : "TAX_TUN"
+  }, {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_TUN"
+  }, {
+    "label" : "CODE EN DOUANE",
+    "code" : "DOU_TUN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TUN",
+  "label" : "Tunisia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TR",
+  "legalIds" : [ {
+    "label" : "TVA/VAT",
+    "code" : "VAT_TUR"
+  }, {
+    "label" : "REGISTERED NUMBER",
+    "code" : "RGN_TUR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TUR",
+  "label" : "Turkey",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TV",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "TUV",
+  "label" : "Tuvalu",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TW",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_TWN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "TWN",
+  "label" : "Taiwan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "TZ",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "TZA",
+  "label" : "Tanzania",
+  "open" : true
+}, {
+  "iso2CountryCode" : "UG",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "UGA",
+  "label" : "Uganda",
+  "open" : true
+}, {
+  "iso2CountryCode" : "UA",
+  "legalIds" : [ {
+    "label" : "EDRPOU (REG NUMBER)",
+    "code" : "RGN_UKR"
+  }, {
+    "label" : "UNN (TVA)",
+    "code" : "VAT_UKR"
+  }, {
+    "label" : "STATISTIC NUMBER",
+    "code" : "STT_UKR"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "UKR",
+  "label" : "Ukraine",
+  "open" : true
+}, {
+  "iso2CountryCode" : "UY",
+  "legalIds" : [ {
+    "label" : "R.U.T.",
+    "code" : "RUT_URY"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "URY",
+  "label" : "Uruguay",
+  "open" : true
+}, {
+  "iso2CountryCode" : "PR;VI;US",
+  "legalIds" : [ {
+    "label" : "D-U-N-S®",
+    "code" : "DUN_US1"
+  }, {
+    "label" : "NO TRANSLATION (CVCompanyIdentifiers.RGN_US1)",
+    "code" : "RGN_US1"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Puerto Rico",
+      "code" : "PR"
+    }, {
+      "label" : "Virgin Islands, U.S.",
+      "code" : "VI"
+    } ],
+    "type" : "A_US1REG"
+  },
+  "isoCountryCode" : "US1",
+  "label" : "Possession of USA in America",
+  "open" : true
+}, {
+  "iso2CountryCode" : "AS;GU;MP;PW;PN;UM;US",
+  "legalIds" : [ ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "American Samoa",
+      "code" : "AS"
+    }, {
+      "label" : "Federated States of Micronesia",
+      "code" : "FM"
+    }, {
+      "label" : "Guam",
+      "code" : "GU"
+    }, {
+      "label" : "Northern Mariana Islands",
+      "code" : "MP"
+    }, {
+      "label" : "Pitcairn",
+      "code" : "PN"
+    }, {
+      "label" : "Palau",
+      "code" : "PW"
+    }, {
+      "label" : "United States Minor Outlying Islands",
+      "code" : "UM"
+    } ],
+    "type" : "A_US2REG"
+  },
+  "isoCountryCode" : "US2",
+  "label" : "Possession of USA in Oceana",
+  "open" : true
+}, {
+  "iso2CountryCode" : "US",
+  "legalIds" : [ {
+    "label" : "D-U-N-S®",
+    "code" : "DUN_USA"
+  }, {
+    "label" : "RGN_USA",
+    "code" : "RGN_USA"
+  } ],
+  "sector" : {
+    "entities" : [ {
+      "label" : "Alaska",
+      "code" : "AK"
+    }, {
+      "label" : "Alabama",
+      "code" : "AL"
+    }, {
+      "label" : "Arkansas",
+      "code" : "AR"
+    }, {
+      "label" : "Arizona",
+      "code" : "AZ"
+    }, {
+      "label" : "California",
+      "code" : "CA"
+    }, {
+      "label" : "Colorado",
+      "code" : "CO"
+    }, {
+      "label" : "Connecticut",
+      "code" : "CT"
+    }, {
+      "label" : "District of Columbia",
+      "code" : "DC"
+    }, {
+      "label" : "Delaware",
+      "code" : "DE"
+    }, {
+      "label" : "Florida",
+      "code" : "FL"
+    }, {
+      "label" : "Georgia",
+      "code" : "GA"
+    }, {
+      "label" : "Hawaii",
+      "code" : "HI"
+    }, {
+      "label" : "Iowa",
+      "code" : "IA"
+    }, {
+      "label" : "Idaho",
+      "code" : "ID"
+    }, {
+      "label" : "Illinois",
+      "code" : "IL"
+    }, {
+      "label" : "Indiana",
+      "code" : "IN"
+    }, {
+      "label" : "Kansas",
+      "code" : "KS"
+    }, {
+      "label" : "Kentucky",
+      "code" : "KY"
+    }, {
+      "label" : "Louisiana",
+      "code" : "LA"
+    }, {
+      "label" : "Massachusetts",
+      "code" : "MA"
+    }, {
+      "label" : "Maryland",
+      "code" : "MD"
+    }, {
+      "label" : "Maine",
+      "code" : "ME"
+    }, {
+      "label" : "Michigan",
+      "code" : "MI"
+    }, {
+      "label" : "Minnesota",
+      "code" : "MN"
+    }, {
+      "label" : "Missouri",
+      "code" : "MO"
+    }, {
+      "label" : "Mississippi",
+      "code" : "MS"
+    }, {
+      "label" : "Montana",
+      "code" : "MT"
+    }, {
+      "label" : "North Carolina",
+      "code" : "NC"
+    }, {
+      "label" : "North Dakota",
+      "code" : "ND"
+    }, {
+      "label" : "Nebraska",
+      "code" : "NE"
+    }, {
+      "label" : "New Hampshire",
+      "code" : "NH"
+    }, {
+      "label" : "New Jersey",
+      "code" : "NJ"
+    }, {
+      "label" : "New Mexico",
+      "code" : "NM"
+    }, {
+      "label" : "Nevada",
+      "code" : "NV"
+    }, {
+      "label" : "New York",
+      "code" : "NY"
+    }, {
+      "label" : "Ohio",
+      "code" : "OH"
+    }, {
+      "label" : "Oklahoma",
+      "code" : "OK"
+    }, {
+      "label" : "Oregon",
+      "code" : "OR"
+    }, {
+      "label" : "Pennsylvania",
+      "code" : "PA"
+    }, {
+      "label" : "Rhode Island",
+      "code" : "RI"
+    }, {
+      "label" : "South Carolina",
+      "code" : "SC"
+    }, {
+      "label" : "South Dakota",
+      "code" : "SD"
+    }, {
+      "label" : "Tennessee",
+      "code" : "TN"
+    }, {
+      "label" : "Texas",
+      "code" : "TX"
+    }, {
+      "label" : "Utah",
+      "code" : "UT"
+    }, {
+      "label" : "Virginia",
+      "code" : "VA"
+    }, {
+      "label" : "Vermont",
+      "code" : "VT"
+    }, {
+      "label" : "Washington",
+      "code" : "WA"
+    }, {
+      "label" : "Wisconsin",
+      "code" : "WI"
+    }, {
+      "label" : "West Virginia",
+      "code" : "WV"
+    }, {
+      "label" : "Wyoming",
+      "code" : "WY"
+    } ],
+    "type" : "A_USASTA"
+  },
+  "isoCountryCode" : "USA",
+  "label" : "United States",
+  "open" : true
+}, {
+  "iso2CountryCode" : "UZ",
+  "legalIds" : [ {
+    "label" : "INN (TVA)",
+    "code" : "VAT_UZB"
+  }, {
+    "label" : "RC (REG. NUMBER)",
+    "code" : "RGN_UZB"
+  }, {
+    "label" : "OKPO",
+    "code" : "OKPO_UZB"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "UZB",
+  "label" : "Uzbekistan",
+  "open" : true
+}, {
+  "iso2CountryCode" : "VA",
+  "legalIds" : [ {
+    "label" : "CODICE FISCALE",
+    "code" : "TAX_VAT"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "VAT",
+  "label" : "Vatican",
+  "open" : true
+}, {
+  "iso2CountryCode" : "VC",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "VCT",
+  "label" : "Saint Vincent and the Grenadines",
+  "open" : true
+}, {
+  "iso2CountryCode" : "VE",
+  "legalIds" : [ {
+    "label" : "R.I.F.",
+    "code" : "RIF_VEN"
+  }, {
+    "label" : "N.I.T.",
+    "code" : "NIT_VEN"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "VEN",
+  "label" : "Venezuela",
+  "open" : true
+}, {
+  "iso2CountryCode" : "VN",
+  "legalIds" : [ {
+    "label" : "Tax Code",
+    "code" : "RGN_VNM"
+  }, {
+    "label" : "BUSINESS REG. NO.",
+    "code" : "RCS_VNM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "VNM",
+  "label" : "Viet Nam",
+  "open" : true
+}, {
+  "iso2CountryCode" : "VU",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "VUT",
+  "label" : "Vanuatu",
+  "open" : true
+}, {
+  "iso2CountryCode" : "WF",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "WLF",
+  "label" : "Wallis and Futuna",
+  "open" : true
+}, {
+  "iso2CountryCode" : "WS",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "WSM",
+  "label" : "Samoa",
+  "open" : true
+}, {
+  "iso2CountryCode" : "YE",
+  "legalIds" : [ {
+    "label" : "TRADE REGISTER",
+    "code" : "RCS_YEM"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "YEM",
+  "label" : "Yemen",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ZA",
+  "legalIds" : [ {
+    "label" : "REGISTRATION NUMBER",
+    "code" : "RGN_ZAF"
+  }, {
+    "label" : "VAT Number",
+    "code" : "VAT_ZAF"
+  }, {
+    "label" : "TRUST",
+    "code" : "TRUST_ZAF"
+  }, {
+    "label" : "ID Number",
+    "code" : "IDN_ZAF"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ZAF",
+  "label" : "South Africa",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ZM",
+  "legalIds" : [ ],
+  "sector" : null,
+  "isoCountryCode" : "ZMB",
+  "label" : "Zambia",
+  "open" : true
+}, {
+  "iso2CountryCode" : "ZW",
+  "legalIds" : [ {
+    "label" : "REGISTRATION CERTIFICATE",
+    "code" : "RGN_ZWE"
+  } ],
+  "sector" : null,
+  "isoCountryCode" : "ZWE",
+  "label" : "Zimbabwe",
+  "open" : true
+} ]

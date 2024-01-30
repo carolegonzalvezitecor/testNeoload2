@@ -1,0 +1,72 @@
+{
+  "customizedFields" : {
+    "maxNotepadDefinitionsByContract" : 8,
+    "notepadDefinitions" : [ {
+      "updatable" : false,
+      "label" : "Outstanding Amount",
+      "code" : "OUTSTANDINGAMOUNT",
+      "identifier" : "01-PORT-6616",
+      "position" : 2,
+      "type" : "number"
+    }, {
+      "updatable" : false,
+      "label" : "Internal credit limit",
+      "code" : "INTCREDITLIMIT",
+      "identifier" : "01-PORT-6618",
+      "position" : 3,
+      "type" : "number"
+    }, {
+      "updatable" : false,
+      "label" : "Customer reference",
+      "code" : "COMPANYREF",
+      "identifier" : "01-PORT-6615",
+      "position" : 1,
+      "type" : "text"
+    } ]
+  },
+  "clauses" : [ "GUARANTOR", "NONE", "OTHER" ],
+  "dras" : [ "NS", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10" ],
+  "functionalStatuses" : [ "CANCELLED", "DECIDED_FULL", "DECIDED_PARTIAL", "DECIDED_REFUSED", "EXPIRED", "REDUCED", "STATUS_FULLFILLED", "STATUS_REPLACED", "UNDER_CANCELLATION", "UNDER_WITHDRAWAL", "WITHDRAWN", "DELIVERED" ],
+  "notificationRatingThreshold" : [ "None", "X", "NR", "R", "@", "@@", "@@@" ],
+  "deliveryTypes" : [ {
+    "deliveryTypeCode" : "ARATING",
+    "familyTypeCode" : "RISKREPT"
+  }, {
+    "deliveryTypeCode" : "ARATINGCHMON",
+    "familyTypeCode" : "RISKREPT"
+  }, {
+    "deliveryTypeCode" : "ARATINGLIMIT",
+    "familyTypeCode" : "RISK"
+  }, {
+    "deliveryTypeCode" : "CCO",
+    "familyTypeCode" : "RISKREPT"
+  }, {
+    "deliveryTypeCode" : "CREDITLIMIT",
+    "familyTypeCode" : "RISK"
+  }, {
+    "deliveryTypeCode" : "ECL",
+    "familyTypeCode" : "RISK"
+  }, {
+    "deliveryTypeCode" : "EDD",
+    "familyTypeCode" : "RISKCLAIM"
+  }, {
+    "deliveryTypeCode" : "FULL_REPORT",
+    "familyTypeCode" : "REPT"
+  }, {
+    "deliveryTypeCode" : "OCL",
+    "familyTypeCode" : "RISK"
+  }, {
+    "deliveryTypeCode" : "SCORECHECK",
+    "familyTypeCode" : "SCORE"
+  }, {
+    "deliveryTypeCode" : "SCOREMON",
+    "familyTypeCode" : "SCORE"
+  }, {
+    "deliveryTypeCode" : "SNAPSHOT_REPORT",
+    "familyTypeCode" : "REPT"
+  }, {
+    "deliveryTypeCode" : "TOPLINER",
+    "familyTypeCode" : "RISK"
+  } ],
+  "dates" : [ "RQ_REQUEST_DATE", "DVCLPER_START_DATE", "DVRISK_DECISION_DATE", "DVCLPER_END_DATE" ]
+}
